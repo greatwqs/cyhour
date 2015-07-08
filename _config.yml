@@ -1,6 +1,47 @@
+# Dependencies
 markdown: redcarpet
-permalink: /:year/:month/:title/
-url: http://syn.cyhour.com
-author: 老杨
 highlighter: pygments
+
+# Permalinks
+permalink: /posts/:title
+timezone: America/Sao_Paulo
+
+# Setup
+title: Carlos Alexandro Becker
+description: 'Software development and related stuff, by Carlos A. Becker'
+baseurl:     ''
+url:         'http://carlosbecker.com'
+
+author:
+  name: 'Carlos Alexandro Becker'
+  url: https://twitter.com/caarlos0
+  email: caarlos0+formspree@gmail.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bin
+
+gems:
+  # - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+
+sass:
+  sass_dir: _scss
+  compressed: true
+
+paginate: 3
+
+# Custom vars
+show_related_posts: true
+animated: true
+
+# Social icons
+show_social_icons: true
+github_username: caarlos0
+twitter_username: caarlos0
+
+google_analytics: UA-50435491-1
+disqus_shortname: caarlos0blog
 
