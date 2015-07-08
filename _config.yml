@@ -1,30 +1,6 @@
-# Dependencies
-markdown:         rdiscount
-highlighter:         pygments
-
-# Permalinks
-permalink:        /words/:year/:month/:day/:title
-
-# Setup
-title:            常阳时光(Sync)
-tagline:          '[ Github 同步 ]'
-description:      'Our times'
-url:              http://syn.cyhour.com
-
-# Contact
-author : 'Laoyang'
-name : 'Laoyang'
-email :  'i # cyhour.com'
-url :  'http://syn.cyhour.com'
-
-paginate :         5
-
-# Custom vars
-comments :
-  provider : disqus
-  duoshuo :
-    short_name : cyatimes
-  disqus :
-    short_name : cyatimes
-    
-production_url : http://syn.cyhour.com
+name: 老杨
+markdown: redcarpet
+pygments: true
+permalink: none
+port: 4001
+excerpt_separator: <!--more-->
