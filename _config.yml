@@ -6,7 +6,7 @@ highlighter:         pygments
 permalink:        /words/:year/:month/:day/:title
 
 # Setup
-title:            常阳时光
+title:            常阳时光(Sync)
 tagline:          '[ Github 同步 ]'
 description:      'Our times'
 url:              http://syn.cyhour.com
