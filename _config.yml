@@ -1,6 +1,6 @@
-name: 老杨
 markdown: redcarpet
-pygments: true
-permalink: none
-port: 4001
-excerpt_separator: <!--more-->
+permalink: /:year/:month/:title/
+url: http://yihui.name/cn
+author: 谢益辉
+highlighter: pygments
+
