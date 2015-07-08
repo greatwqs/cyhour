@@ -7,15 +7,15 @@ permalink: /posts/:title
 timezone: America/Sao_Paulo
 
 # Setup
-title: Carlos Alexandro Becker
-description: 'Software development and related stuff, by Carlos A. Becker'
+title: 常阳时光(syn)
+description: '常阳时光 Github 同步'
 baseurl:     ''
-url:         'http://carlosbecker.com'
+url:         'http://syn.cyhour.com'
 
 author:
-  name: 'Carlos Alexandro Becker'
-  url: https://twitter.com/caarlos0
-  email: caarlos0+formspree@gmail.com
+  name: '老杨'
+  url: http://syn.cyhour.com
+  email: i@cyhour.com
 
 exclude:
   - Gemfile
@@ -39,9 +39,8 @@ animated: true
 
 # Social icons
 show_social_icons: true
-github_username: caarlos0
-twitter_username: caarlos0
+github_username: nieccyyy
+twitter_username: nieccyyy
 
-google_analytics: UA-50435491-1
-disqus_shortname: caarlos0blog
-
+google_analytics: UA-48556550-3
+disqus_shortname: synchour
