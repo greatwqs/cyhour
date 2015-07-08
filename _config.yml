@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         rdiscount
+highlighter:         pygments
+
+# Permalinks
+permalink:        /words/:year/:month/:day/:title
+
+# Setup
+title:            Li Yishan
+tagline:          '[ write words ]'
+description:      '一二三·生万物'
+url:              http://write.liyishan.me
+
+# Contact
+author : 'Li Yishan'
+name : 'Yishan'
+email :  'mail # liyishan.me'
+url :  'http://write.liyishan.me'
+
+paginate :         5
+
+# Custom vars
+comments :
+  provider : disqus
+  duoshuo :
+    short_name : liyishan
+  disqus :
+    short_name : liyishan
+    
+production_url : http://write.liyishan.me
