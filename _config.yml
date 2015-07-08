@@ -6,16 +6,16 @@ highlighter:         pygments
 permalink:        /words/:year/:month/:day/:title
 
 # Setup
-title:            Li Yishan
-tagline:          '[ write words ]'
-description:      '一二三·生万物'
-url:              http://write.liyishan.me
+title:            常阳时光
+tagline:          '[ Github 同步 ]'
+description:      'Our times'
+url:              http://syn.cyhour.com
 
 # Contact
-author : 'Li Yishan'
-name : 'Yishan'
-email :  'mail # liyishan.me'
-url :  'http://write.liyishan.me'
+author : 'Laoyang'
+name : 'Laoyang'
+email :  'i # cyhour.com'
+url :  'http://syn.cyhour.com'
 
 paginate :         5
 
@@ -23,8 +23,8 @@ paginate :         5
 comments :
   provider : disqus
   duoshuo :
-    short_name : liyishan
+    short_name : cyatimes
   disqus :
-    short_name : liyishan
+    short_name : cyatimes
     
-production_url : http://write.liyishan.me
+production_url : http://syn.cyhour.com
