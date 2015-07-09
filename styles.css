@@ -1506,3 +1506,13 @@ img.emoji {
 .github-cards {
   text-align: center;
 }
+
+#ds-thread #ds-reset .ds-powered-by { /*多说 不显示 powerby*/
+	display: none!important;
+}
+
+#ds-thread #ds-reset .ds-replybox {
+    border-bottom: 1px solid #ccc;
+    margin: 8px 0 32px!important;
+    padding: 0 0 44px 60px!important;
+}
