@@ -1,6 +1,6 @@
 ---
 title: Tomato DualWAN 电信有线+移动无线叠加
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /tomato-dualwan-wired-and-wireless-superposition.html
 categories:
@@ -9,7 +9,7 @@ tags:
   - TomatoDualWAN
   - 无线叠加
 ---
-最近拉了条<a href="https://cyhour.com/use-free-chinamobile-optical-broadband.html" target="_blank">移动光宽带</a>，原有的路由（DualWAN WR-525W）是支持多 WAN 接入拨号的，但是由于历史原因，移动的光纤接不到路由器 WR-525W 那去，又懒得借工具穿线，刚好 Tomato 的无线模式支持中继(无线客户端+虚拟AP)模式，于是又淘了个支持 Tomato 的二手 <a href="https://cyhour.com/sto-garbage-express-delivery.html" target="_blank">Asus RT-N16</a> 。  
+最近拉了条<a href="http://cyhour.com/use-free-chinamobile-optical-broadband.html" target="_blank">移动光宽带</a>，原有的路由（DualWAN WR-525W）是支持多 WAN 接入拨号的，但是由于历史原因，移动的光纤接不到路由器 WR-525W 那去，又懒得借工具穿线，刚好 Tomato 的无线模式支持中继(无线客户端+虚拟AP)模式，于是又淘了个支持 Tomato 的二手 <a href="http://cyhour.com/sto-garbage-express-delivery.html" target="_blank">Asus RT-N16</a> 。  
 
 
 移动电信宽带叠加思路：Asus RT-N16 连接移动 6M 光纤宽带，作为无线热点用（Y201）；DualWAN WR-525W 连接电信 8M 光纤宽带到 WAN1，无线工作在<span style = "color:red;">中继(无线客户端+虚拟AP)模式</span>，无线客户端连接 Y201 到 WAN2，WAN1+WAN2 叠加后通过 <span style = "color:red;">虚拟AP</span> （接入点名称 YYY）供电脑手机等上网。下面是简单的示意图：
@@ -68,9 +68,9 @@ e、刷好 Tomato 后，用 root/admin 登陆路由器（192.168.1.1），做一
 
 参考：http://bbs.dualwan.cn/thread-197922-1-1.html
 
- [1]: https://cyhour.com/wp-content/uploads/2015/01/Asus-RT-N16-and-DualWAN-WR-525W.png
- [2]: https://cyhour.com/wp-content/uploads/2015/01/DualWAN-WR-525W-setting-01.png
- [3]: https://cyhour.com/wp-content/uploads/2015/01/DualWAN-WR-525W-setting-assignout.png
- [4]: https://cyhour.com/wp-content/uploads/2015/01/Asus-RT-N16-and-DualWAN-WR-525W-download.png
- [5]: https://cyhour.com/wp-content/uploads/2015/01/Asus-RT-N16-system.png
- [6]: https://cyhour.com/wp-content/uploads/2015/01/DualWAN-WR-525W-system.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/01/Asus-RT-N16-and-DualWAN-WR-525W.png
+ [2]: http://cyhour.com/wp-content/uploads/2015/01/DualWAN-WR-525W-setting-01.png
+ [3]: http://cyhour.com/wp-content/uploads/2015/01/DualWAN-WR-525W-setting-assignout.png
+ [4]: http://cyhour.com/wp-content/uploads/2015/01/Asus-RT-N16-and-DualWAN-WR-525W-download.png
+ [5]: http://cyhour.com/wp-content/uploads/2015/01/Asus-RT-N16-system.png
+ [6]: http://cyhour.com/wp-content/uploads/2015/01/DualWAN-WR-525W-system.png

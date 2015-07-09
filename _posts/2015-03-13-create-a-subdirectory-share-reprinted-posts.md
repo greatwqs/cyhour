@@ -1,6 +1,6 @@
 ---
 title: 新建子目录分享转载博文
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /create-a-subdirectory-share-reprinted-posts.html
 categories:
@@ -13,16 +13,16 @@ tags:
 
 
   
-前阵子清理了很多转载的无用的鸡汤文，原本不想多维护一套 WordPress 软件数据，也不想用<a href="https://cyhour.com/enable-wordpress-mu-function-and-map-domain-for-network-blogs.html" target="_blank">多站点</a>模式，转载的文章都放到了一个叫【剪贴板】的分类下，但是，这样区分并不明显，对搜索引擎也不好。
+前阵子清理了很多转载的无用的鸡汤文，原本不想多维护一套 WordPress 软件数据，也不想用<a href="http://cyhour.com/enable-wordpress-mu-function-and-map-domain-for-network-blogs.html" target="_blank">多站点</a>模式，转载的文章都放到了一个叫【剪贴板】的分类下，但是，这样区分并不明显，对搜索引擎也不好。
 
-<del datetime="2015-03-23T17:12:21+00:00">于是，参考坛子的方法，在常阳时光下面新建一个子目录：https://cyhour.com/reprinted/ 专门转载我觉得有意思的文章。在形式上，就相当于一个新分类；在搜索引擎上相当于另一个独立网站，在数据上也与常阳时光完全分离。</del>
+<del datetime="2015-03-23T17:12:21+00:00">于是，参考坛子的方法，在常阳时光下面新建一个子目录：http://cyhour.com/reprinted/ 专门转载我觉得有意思的文章。在形式上，就相当于一个新分类；在搜索引擎上相当于另一个独立网站，在数据上也与常阳时光完全分离。</del>
 
-<del datetime="2015-03-23T17:23:18+00:00">常阳时光原本转载的文章（有一小部分没处理）连同评论迁移到子目录下的新站了，见：<a href="https://cyhour.com/category/reprinted" target="_blank">大肥羊转载</a>。</del>
+<del datetime="2015-03-23T17:23:18+00:00">常阳时光原本转载的文章（有一小部分没处理）连同评论迁移到子目录下的新站了，见：<a href="http://cyhour.com/category/reprinted" target="_blank">老杨转载</a>。</del>
 
 <span style = "color:blue;">后记：2015-3-24</span>
 
-拆分的转载站十天了，Google 搜索看了看，虽然我是单独建立了一个站，但是 Google 还是把新建的转载站算到常阳时光下面来了。加上基本上没人看，还是关掉了，以前的文章迁回来了，在【<a href="https://cyhour.com/category/reprinted" target="_blank">大肥羊转载</a>】分类下，就这样吧~
+拆分的转载站十天了，Google 搜索看了看，虽然我是单独建立了一个站，但是 Google 还是把新建的转载站算到常阳时光下面来了。加上基本上没人看，还是关掉了，以前的文章迁回来了，在【<a href="http://cyhour.com/category/reprinted" target="_blank">老杨转载</a>】分类下，就这样吧~
 
 ![ end-of-reprinted ][1]
 
- [1]: https://cyhour.com/wp-content/uploads/2015/03/end-of-reprinted.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/03/end-of-reprinted.png

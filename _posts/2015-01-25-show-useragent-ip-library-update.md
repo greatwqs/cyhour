@@ -1,6 +1,6 @@
 ---
 title: 更新 Show UserAgent IP 库
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /show-useragent-ip-library-update.html
 categories:
@@ -27,4 +27,4 @@ tags:
 
 ![ ip2c-build ][1]
 
- [1]: https://cyhour.com/wp-content/uploads/2015/01/ip2c-build.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/01/ip2c-build.png

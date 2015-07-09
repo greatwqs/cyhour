@@ -1,6 +1,6 @@
 ---
 title: 天下没有免费的午餐
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /there-is-no-such-thing-as-a-free-lunch.html
 categories:

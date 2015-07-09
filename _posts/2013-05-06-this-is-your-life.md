@@ -1,10 +1,10 @@
 ---
 title: 这是你自己的人生
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /this-is-your-life.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 人生
   - 梦想

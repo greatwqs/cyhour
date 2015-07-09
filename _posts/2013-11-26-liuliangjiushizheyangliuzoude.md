@@ -1,6 +1,6 @@
 ---
 title: 流量就是这样溜走的
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /liuliangjiushizheyangliuzoude.html
 categories:
@@ -27,4 +27,4 @@ tags:
 
 可恶的垃圾。。。
 
- [1]: https://cyhour.com/wp-content/uploads/2013/11/lajipinglun.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2013/11/lajipinglun.jpg

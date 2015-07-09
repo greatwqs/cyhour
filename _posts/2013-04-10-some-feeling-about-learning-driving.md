@@ -1,6 +1,6 @@
 ---
 title: 广州C1驾照-学车理论培训有感
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /some-feeling-about-learning-driving.html
 categories:

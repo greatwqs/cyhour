@@ -1,10 +1,10 @@
 ---
 title: 完全没有基础如何学会计
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /learning-accounting-without-any-foundation.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 会计
 ---

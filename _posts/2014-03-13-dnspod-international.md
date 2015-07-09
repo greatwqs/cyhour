@@ -1,6 +1,6 @@
 ---
 title: 用上DNSPOD国际版
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /dnspod-international.html
 categories:
@@ -22,6 +22,6 @@ Dnspod中国版（Dnspod.cn），免费用户是不支持Google蜘蛛的，但�
 
 ![IE_DNSpod_English][3]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/03/cyhour_DNSPOD_international.png
- [2]: https://cyhour.com/wp-content/uploads/2014/03/IE_DNSpod.png
- [3]: https://cyhour.com/wp-content/uploads/2014/03/IE_DNSpod_English.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/03/cyhour_DNSPOD_international.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/03/IE_DNSpod.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/03/IE_DNSpod_English.png

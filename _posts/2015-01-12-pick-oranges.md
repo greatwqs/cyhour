@@ -1,6 +1,6 @@
 ---
 title: C1驾照-科目三（长途）+摘桔子
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /pick-oranges.html
 categories:
@@ -38,7 +38,7 @@ tags:
 
 明天早上七点多又要去考路试了，但愿一切顺利~
 
- [1]: https://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-kaoshizhong.jpg
- [2]: https://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-baodao.jpg
- [3]: https://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-shenhe.jpg
- [4]: https://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-xuanjuzi.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-kaoshizhong.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-baodao.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-shenhe.jpg
+ [4]: http://cyhour.com/wp-content/uploads/2015/01/zhaijuzi-xuanjuzi.jpg

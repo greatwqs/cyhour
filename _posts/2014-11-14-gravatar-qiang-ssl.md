@@ -1,10 +1,10 @@
 ---
 title: Gravatar 头像被墙及解决方案
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /gravatar-qiang-ssl.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - wordpress
 ---

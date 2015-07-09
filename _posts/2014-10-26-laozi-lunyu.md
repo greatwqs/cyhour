@@ -1,6 +1,6 @@
 ---
 title: 老子论语摘抄
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /laozi-lunyu.html
 categories:

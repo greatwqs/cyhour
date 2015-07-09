@@ -1,6 +1,6 @@
 ---
 title: 广州→珠海→澳门
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /guangzhou-zhuhai-macau.html
 categories:
@@ -37,7 +37,7 @@ tags:
 
 第一次去澳门是12年七月份，那时候是七点多在广州坐包车出发，当日来回，过完关到澳门已是中午了，晚上七点前就得赶回到珠海坐包车回程，时间很赶，不过很便宜，来回才四十来块，适合纯粹过去购物的。
 
-第二次是 2013 年国庆<a href="https://cyhour.com/macau-travel-2013-guoqing-c.html" target="_blank">去澳门瞎逛了两天</a>，那时候是在澳门住了一晚，时间宽裕，慢慢的走了好多地方，比如很少游人会去的澳门大学。
+第二次是 2013 年国庆<a href="http://cyhour.com/macau-travel-2013-guoqing-c.html" target="_blank">去澳门瞎逛了两天</a>，那时候是在澳门住了一晚，时间宽裕，慢慢的走了好多地方，比如很少游人会去的澳门大学。
 
 ![ macau-university-2013 ][4]
 
@@ -59,10 +59,10 @@ tags:
 
 引用一句别人的话结束了——旅行的乐趣是什么，就是即使到了几乎一无所知的地方，那里也必定有耀眼之处，而自己要亲自将这些光芒一个个拾起、收集起来。<a href="http://wufazhuce.com/one/vol.904" target="_blank">by 松浦弥太郎</a>
 
- [1]: https://cyhour.com/wp-content/uploads/2015/04/guangzhou-south-railway-station.jpg
- [2]: https://cyhour.com/wp-content/uploads/2015/04/chinese-dream.jpg
- [3]: https://cyhour.com/wp-content/uploads/2015/04/zhuhai-gongbeikouan.jpg
- [4]: https://cyhour.com/wp-content/uploads/2015/04/macau-university-2013.jpg
- [5]: https://cyhour.com/wp-content/uploads/2015/04/dasanba-2015.jpg
- [6]: https://cyhour.com/wp-content/uploads/2015/04/macau-full-view-2015.jpg
- [7]: https://cyhour.com/wp-content/uploads/2015/04/jiehunzhenshu.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2015/04/guangzhou-south-railway-station.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2015/04/chinese-dream.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2015/04/zhuhai-gongbeikouan.jpg
+ [4]: http://cyhour.com/wp-content/uploads/2015/04/macau-university-2013.jpg
+ [5]: http://cyhour.com/wp-content/uploads/2015/04/dasanba-2015.jpg
+ [6]: http://cyhour.com/wp-content/uploads/2015/04/macau-full-view-2015.jpg
+ [7]: http://cyhour.com/wp-content/uploads/2015/04/jiehunzhenshu.jpg

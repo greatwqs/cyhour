@@ -1,6 +1,6 @@
 ---
 title: 工作又一年了
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /working-a-year-once-more.html
 categories:

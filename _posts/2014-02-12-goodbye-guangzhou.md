@@ -1,6 +1,6 @@
 ---
 title: 再见，广州
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /goodbye-guangzhou.html
 categories:

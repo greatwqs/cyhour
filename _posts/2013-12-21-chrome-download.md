@@ -1,6 +1,6 @@
 ---
 title: Chrome 各版本下载
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /chrome-download.html
 categories:

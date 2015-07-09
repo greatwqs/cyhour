@@ -1,6 +1,6 @@
 ---
 title: WordPress 主题是个无底洞
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /wordpress-theme-is-a-bottomless-pit.html
 categories:

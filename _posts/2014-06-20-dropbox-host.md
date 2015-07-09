@@ -1,6 +1,6 @@
 ---
 title: Dropbox
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /dropbox-host.html
 categories:
@@ -20,4 +20,4 @@ tags:
 
 这里也有些IP ：http://notepad.cc/share/6FHbG4X1xc
 
- [1]: https://cyhour.com/wp-content/uploads/2014/06/reconnect-dropbox_2014-06-20.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/06/reconnect-dropbox_2014-06-20.png

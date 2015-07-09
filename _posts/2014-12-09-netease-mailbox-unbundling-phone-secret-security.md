@@ -1,6 +1,6 @@
 ---
 title: 网易邮箱解绑电话密保
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /netease-mailbox-unbundling-phone-secret-security.html
 categories:
@@ -41,8 +41,8 @@ tags:
 
 很简单的一个问题，特殊情况下，也得折腾很久才能解决。这邮箱本想丢掉了，但是人生中（2006年）注册的第一个邮箱，当时还是想送给小嫦子的，没送成，就留着自用了。然后，大学的时候用这邮箱注册淘宝和支付宝了，好几次想弃掉此邮箱，无奈绑定着淘宝和支付宝，再后来，支付宝和淘宝都可以解绑重新绑定邮箱了……不过，最终，还是留着了。
 
- [1]: https://cyhour.com/wp-content/uploads/2014/12/163-guangliansouji.jpg
- [2]: https://cyhour.com/wp-content/uploads/2014/12/163-dianhuamibao.png
- [3]: https://cyhour.com/wp-content/uploads/2014/12/163-shensu.jpg
- [4]: https://cyhour.com/wp-content/uploads/2014/12/163-huizhi.png
- [5]: https://cyhour.com/wp-content/uploads/2014/12/163-shenhetongguo.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2014/12/163-guangliansouji.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2014/12/163-dianhuamibao.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/12/163-shensu.jpg
+ [4]: http://cyhour.com/wp-content/uploads/2014/12/163-huizhi.png
+ [5]: http://cyhour.com/wp-content/uploads/2014/12/163-shenhetongguo.jpg

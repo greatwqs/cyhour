@@ -1,6 +1,6 @@
 ---
 title: 更改登入 iTunes Store 的 Apple ID
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /change-the-itunes-store-apple-id-login.html
 categories:
@@ -57,8 +57,8 @@ tags:
 
 好吧，里面的钱不多，买了个Camera+，还剩下￥26，谁来推荐个值得买的App？
 
- [1]: https://cyhour.com/wp-content/uploads/2013/12/setting_itunes_store.png
- [2]: https://cyhour.com/wp-content/uploads/2013/12/view_apple_ID.png
- [3]: https://cyhour.com/wp-content/uploads/2013/12/view_apple_ID_dealtail.png
- [4]: https://cyhour.com/wp-content/uploads/2013/12/need_update.jpg
- [5]: https://cyhour.com/wp-content/uploads/2013/12/apple_id_change_country.png
+ [1]: http://cyhour.com/wp-content/uploads/2013/12/setting_itunes_store.png
+ [2]: http://cyhour.com/wp-content/uploads/2013/12/view_apple_ID.png
+ [3]: http://cyhour.com/wp-content/uploads/2013/12/view_apple_ID_dealtail.png
+ [4]: http://cyhour.com/wp-content/uploads/2013/12/need_update.jpg
+ [5]: http://cyhour.com/wp-content/uploads/2013/12/apple_id_change_country.png

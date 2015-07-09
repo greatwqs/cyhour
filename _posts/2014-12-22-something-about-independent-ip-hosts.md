@@ -1,6 +1,6 @@
 ---
 title: 独立IP主机的一些事情
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /something-about-independent-ip-hosts.html
 categories:
@@ -14,9 +14,9 @@ tags:
   
 10月份，厚着脸皮要了<a href="http://shanjincheng.com/14" target="_blank">锦程活动赚来的恒创独立IP香港主机</a>。独立IP，看看都觉得高大上啊。
 
-<a href="/" target="_blank">常阳时光</a>这个博客一直安在西门的<a href="https://cyhour.com/zhuji-gd-bloghost.html" target="_blank">博客主机（日本东京）</a>，1G空间+30G流量/月，足够用了，一般是三分之一的流量都用不完，除非被刷流量。一直也挺稳定的，而那个要来的看起来高大上的恒创独立IP主机，因为之前没用过，不知道稳定否，所以不敢将博客搬到那边去。于是就用闲置的域名在上面建了个测试站，偶尔看看，感觉还行。
+<a href="/" target="_blank">常阳时光</a>这个博客一直安在西门的<a href="http://cyhour.com/zhuji-gd-bloghost.html" target="_blank">博客主机（日本东京）</a>，1G空间+30G流量/月，足够用了，一般是三分之一的流量都用不完，除非被刷流量。一直也挺稳定的，而那个要来的看起来高大上的恒创独立IP主机，因为之前没用过，不知道稳定否，所以不敢将博客搬到那边去。于是就用闲置的域名在上面建了个测试站，偶尔看看，感觉还行。
 
-然后，看<a href="https://too2ye.com/3002" target="_blank">兔二爷说给博客安装SSL证书有四大好处</a>，心动了，又想折腾了，证书嘛可以用 StartSSL的免费证书练手，可是西门的主机没有独立IP，装不了SSL证书。一下子狠下心来，在StartSSL申请好免费证书，备份博客，<a href="https://cyhour.com/directadmin-install-startssl-free-ssl-certificates.html" target="_blank">折腾将近一天</a>将博客切换到了恒创的高大上独立IP主机。速度嘛，和搬家前差不多，刚开始也没发现有什么问题。
+然后，看<a href="https://too2ye.com/3002" target="_blank">兔二爷说给博客安装SSL证书有四大好处</a>，心动了，又想折腾了，证书嘛可以用 StartSSL的免费证书练手，可是西门的主机没有独立IP，装不了SSL证书。一下子狠下心来，在StartSSL申请好免费证书，备份博客，<a href="http://cyhour.com/directadmin-install-startssl-free-ssl-certificates.html" target="_blank">折腾将近一天</a>将博客切换到了恒创的高大上独立IP主机。速度嘛，和搬家前差不多，刚开始也没发现有什么问题。
 
 第二天开始，发现这主机每天都得不定时抽风几次，抽风的时候巨慢，甚至打不开，虽然持续的时间不会太长，但还是相当不爽。抽风的次数多了，就烦了，于是每次抽风的时候都找客服。哎，基本上是天天找。
 

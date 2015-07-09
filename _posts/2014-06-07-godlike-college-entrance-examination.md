@@ -1,6 +1,6 @@
 ---
 title: 神一样的高考
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /godlike-college-entrance-examination.html
 categories:
@@ -23,8 +23,8 @@ tags:
 
 ![神一样的高考][5]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/06/IMG_5474.png
- [2]: https://cyhour.com/wp-content/uploads/2014/06/IMG_5470.png
- [3]: https://cyhour.com/wp-content/uploads/2014/06/IMG_5471.png
- [4]: https://cyhour.com/wp-content/uploads/2014/06/IMG_5472.png
- [5]: https://cyhour.com/wp-content/uploads/2014/06/IMG_5473.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/06/IMG_5474.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/06/IMG_5470.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/06/IMG_5471.png
+ [4]: http://cyhour.com/wp-content/uploads/2014/06/IMG_5472.png
+ [5]: http://cyhour.com/wp-content/uploads/2014/06/IMG_5473.png

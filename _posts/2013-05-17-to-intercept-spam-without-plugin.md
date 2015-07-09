@@ -1,6 +1,6 @@
 ---
 title: 无需插件实现拦截无中文或有日文垃圾评论
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /to-intercept-spam-without-plugin.html
 categories:

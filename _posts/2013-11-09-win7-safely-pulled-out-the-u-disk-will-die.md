@@ -1,6 +1,6 @@
 ---
 title: Win7安全拔出U盘死机
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /win7-safely-pulled-out-the-u-disk-will-die.html
 categories:

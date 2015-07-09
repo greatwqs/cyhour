@@ -1,6 +1,6 @@
 ---
 title: 国产水果越狱又来了
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /chinese-jailbreak-came-again.html
 categories:
@@ -37,4 +37,4 @@ OK，经过以上的操作，基本上问题就应该得到解决了。
 
 今天又犯错了，作死的节奏啊——我真的不适合干这一行？
 
- [1]: https://cyhour.com/wp-content/uploads/2014/06/ios-711-untethered-jailbreak.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2014/06/ios-711-untethered-jailbreak.jpg

@@ -1,6 +1,6 @@
 ---
 title: 后会无期(2014)
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /the-continent.html
 categories:
@@ -42,6 +42,6 @@ tags:
 
 ![houhuiwuqihaibao-3][3]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/07/houhuiwuqihaibao-1.jpg
- [2]: https://cyhour.com/wp-content/uploads/2014/07/houhuiwuqihaibao-2.jpg
- [3]: https://cyhour.com/wp-content/uploads/2014/07/houhuiwuqihaibao-3.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2014/07/houhuiwuqihaibao-1.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2014/07/houhuiwuqihaibao-2.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2014/07/houhuiwuqihaibao-3.jpg

@@ -1,6 +1,6 @@
 ---
 title: 移动iTunes备份文件夹至非系统盘
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /move-itunes-backup-folder-to-a-non-system-disk.html
 categories:

@@ -1,6 +1,6 @@
 ---
 title: DirectAdmin安装StartSSL免费SSL证书
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /directadmin-install-startssl-free-ssl-certificates.html
 categories:
@@ -113,7 +113,7 @@ b.进数据库，SQL替换文章内容、评论内容中的http链接（操作�
 
 <pre style="margin:15px 0;font:100 12px/18px monaco, andale mono, courier new;padding:10px 12px;border:#ccc 1px solid;border-left-width:4px;background-color:#fefefe;box-shadow:0 0 4px #eee;word-break:break-all;word-wrap:break-word;color:#444">UPDATE wp_posts SET post_content = REPLACE (post_content, 'http://www.example.com', 'https://www.example.com');   <br />UPDATE wp_posts SET post_content = REPLACE (post_content, 'http://example.com', 'https://example.com');   <br /></pre>
 
-<pre style="margin:15px 0;font:100 12px/18px monaco, andale mono, courier new;padding:10px 12px;border:#ccc 1px solid;border-left-width:4px;background-color:#fefefe;box-shadow:0 0 4px #eee;word-break:break-all;word-wrap:break-word;color:#444">UPDATE wp_comments SET comment_content = REPLACE( comment_content, 'http://cyhour.com/', 'https://cyhour.com/' );<br />UPDATE wp_comments SET comment_content = REPLACE( comment_content, 'http://www.cyhour.com/', 'https://www.cyhour.com/' );</pre>
+<pre style="margin:15px 0;font:100 12px/18px monaco, andale mono, courier new;padding:10px 12px;border:#ccc 1px solid;border-left-width:4px;background-color:#fefefe;box-shadow:0 0 4px #eee;word-break:break-all;word-wrap:break-word;color:#444">UPDATE wp_comments SET comment_content = REPLACE( comment_content, 'http://cyhour.com/', 'http://cyhour.com/' );<br />UPDATE wp_comments SET comment_content = REPLACE( comment_content, 'http://www.cyhour.com/', 'https://www.cyhour.com/' );</pre>
 
 c. 配置 .htaccess 整站 http 强制跳转到 https。（据说此方法可以照顾度娘收录）更详细方法移步【<a href="https://wzyboy.im/post/799.html" target="_blank">Wzyboy’s Blog</a>】
 
@@ -121,7 +121,7 @@ c. 配置 .htaccess 整站 http 强制跳转到 https。（据说此方法可以
 
 注意此代码可能需要放至 WordPress 伪静态配置代码前面，比如：
 
-<pre style="margin:15px 0;font:100 12px/18px monaco, andale mono, courier new;padding:10px 12px;border:#ccc 1px solid;border-left-width:4px;background-color:#fefefe;box-shadow:0 0 4px #eee;word-break:break-all;word-wrap:break-word;color:#444"># BEGIN WordPress<br /><span style="color:#170">&lt;IfModule</span> <span style="color:#00c">mod_rewrite.c</span><span style="color:#170">&gt;</span><br />RewriteEngine On<br />RewriteCond %{HTTPS} !on [NC]<br />RewriteCond %{HTTP_USER_AGENT} !(baiduspider|soso|bing|sogou|yahoo|sohu-search|yodao|robozilla|msnbot|msie|feedburner) [NC]<br />RewriteRule (.*) https://cyhour.com%{REQUEST_URI} [R=301,NC,L]<br />RewriteBase /<br />RewriteRule ^index\.php$ - [L]<br />RewriteCond %{REQUEST_FILENAME} !-f<br />RewriteCond %{REQUEST_FILENAME} !-d<br />RewriteRule . /index.php [L]<br /><span style="color:#170">&lt;/IfModule</span><span style="color:#170">&gt;</span><br /># END WordPress</pre>
+<pre style="margin:15px 0;font:100 12px/18px monaco, andale mono, courier new;padding:10px 12px;border:#ccc 1px solid;border-left-width:4px;background-color:#fefefe;box-shadow:0 0 4px #eee;word-break:break-all;word-wrap:break-word;color:#444"># BEGIN WordPress<br /><span style="color:#170">&lt;IfModule</span> <span style="color:#00c">mod_rewrite.c</span><span style="color:#170">&gt;</span><br />RewriteEngine On<br />RewriteCond %{HTTPS} !on [NC]<br />RewriteCond %{HTTP_USER_AGENT} !(baiduspider|soso|bing|sogou|yahoo|sohu-search|yodao|robozilla|msnbot|msie|feedburner) [NC]<br />RewriteRule (.*) http://cyhour.com%{REQUEST_URI} [R=301,NC,L]<br />RewriteBase /<br />RewriteRule ^index\.php$ - [L]<br />RewriteCond %{REQUEST_FILENAME} !-f<br />RewriteCond %{REQUEST_FILENAME} !-d<br />RewriteRule . /index.php [L]<br /><span style="color:#170">&lt;/IfModule</span><span style="color:#170">&gt;</span><br /># END WordPress</pre>
 
 d.手工检查将主题、评论、插件等引用的http改为https
 
@@ -157,5 +157,5 @@ HTTPS 昨晚才基本弄好，Google 搜索首页几乎是秒变，度娘的暂�
  [18]: /wp-content/uploads/2014/12/DA-Install-Certificate.png
  [19]: /wp-content/uploads/2014/12/Root-CA-SSL.png
  [20]: /wp-content/uploads/2014/12/WordPress-Sites-URL.png
- [21]: https://cyhour.com/wp-content/uploads/2014/12/Google-Https-SSL-cyhour.png
- [22]: https://cyhour.com/wp-content/uploads/2014/12/Baidu-Https-SSL-cyhour.png
+ [21]: http://cyhour.com/wp-content/uploads/2014/12/Google-Https-SSL-cyhour.png
+ [22]: http://cyhour.com/wp-content/uploads/2014/12/Baidu-Https-SSL-cyhour.png

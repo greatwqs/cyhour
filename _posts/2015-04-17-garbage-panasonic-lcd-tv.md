@@ -1,7 +1,7 @@
 ---
 Date: 2015-04-17 18:22
 title: 德庆垃圾华发电器+垃圾松下液晶电视
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /garbage-panasonic-lcd-tv.html
 categories:
@@ -13,9 +13,9 @@ RT，吐槽一下，德庆垃圾华发电器+垃圾松下液晶电视TH-42A400C�
 
 下面详细的说说德庆的垃圾华发电器和垃圾的松下液晶电视TH-42A400C，今天中午特地去拍了张这破店的照片，全名叫：华发电器 索尼液晶电视特约经销商！看来我们自己也是找抽的，去一个索尼液晶电视特约经销商那里买松下的液晶电视。
 
-![ huafadianqi ](https://cyhour.com/wp-content/uploads/2015/04/huafadianqi-01.jpg)
+![ huafadianqi ](http://cyhour.com/wp-content/uploads/2015/04/huafadianqi-01.jpg)
 
-![ huafadianqi ](https://cyhour.com/wp-content/uploads/2015/04/huafadianqi-02.jpg)
+![ huafadianqi ](http://cyhour.com/wp-content/uploads/2015/04/huafadianqi-02.jpg)
 
 说这破店垃圾，不是因为他卖了一台垃圾的松下液晶电视给我，而是那光头老板的态度和做法：
 
@@ -29,11 +29,11 @@ RT，吐槽一下，德庆垃圾华发电器+垃圾松下液晶电视TH-42A400C�
 
 嫦子打电话给松下的维修了，那人第一反应是，又是这个问题。好吧，这垃圾松下电视，是名副其实的了。
 
-![ TH-42A400C ](https://cyhour.com/wp-content/uploads/2015/04/TH-42A400C.jpg)
+![ TH-42A400C ](http://cyhour.com/wp-content/uploads/2015/04/TH-42A400C.jpg)
 
 傍晚时分，售后的过来拆机看了看，说可能是屏的问题，把电视带走了，可能要十来天才能搞好。于是，古董的旧电视又派上战场了。虽然是杂牌货，但是色彩比坏掉的好多了。
 
-![ gudongdianshi ](https://cyhour.com/wp-content/uploads/2015/04/gudongdianshi.jpg)
+![ gudongdianshi ](http://cyhour.com/wp-content/uploads/2015/04/gudongdianshi.jpg)
 
 另，我在本地论坛发了一个简单的帖子，有兴趣的可以去看看评论：http://www.gddeqing.com/forum.php?mod=viewthread&tid=206901&fromuid=704
 
@@ -41,4 +41,4 @@ RT，吐槽一下，德庆垃圾华发电器+垃圾松下液晶电视TH-42A400C�
 
 未完，待续！
 
-[广告]　[GreenVPN是一款运营多年的绿色、稳定、安全的VPN产品，帮助您轻松浏览Google、‍Facebook、Youtube、Twitter等，使用简单，手机电脑全平台支持，可免费试用，值得推荐。](https://cyhour.com/out/greenvpn)
+[广告]　[GreenVPN是一款运营多年的绿色、稳定、安全的VPN产品，帮助您轻松浏览Google、‍Facebook、Youtube、Twitter等，使用简单，手机电脑全平台支持，可免费试用，值得推荐。](http://cyhour.com/out/greenvpn)

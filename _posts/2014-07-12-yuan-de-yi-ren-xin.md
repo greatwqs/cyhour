@@ -1,6 +1,6 @@
 ---
 title: 愿得一人心
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /yuan-de-yi-ren-xin.html
 categories:
@@ -60,4 +60,4 @@ tags:
 
 *#处repeat
 
- [1]: https://cyhour.com/wp-content/uploads/2014/07/kele_jiaduobao.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2014/07/kele_jiaduobao.jpg

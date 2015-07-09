@@ -1,6 +1,6 @@
 ---
 title: 假想
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /hypothesis.html
 categories:

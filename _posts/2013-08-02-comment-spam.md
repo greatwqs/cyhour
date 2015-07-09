@@ -1,6 +1,6 @@
 ---
 title: WordPress对比Gravatar头像md5拦截垃圾评论
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /comment-spam.html
 categories:

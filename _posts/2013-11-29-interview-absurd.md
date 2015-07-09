@@ -1,10 +1,10 @@
 ---
 title: 面试荒诞
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /interview-absurd.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 工作
   - 面试

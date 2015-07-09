@@ -1,6 +1,6 @@
 ---
 title: '天气预报-免费轻便无广告[iOS App 推荐]'
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /weather-forecast-ios.html
 categories:
@@ -22,7 +22,7 @@ App 简单介绍——提供：未来10天天气预报，覆盖全国所有市�
 
 ![ WordPress411-automatic ][2]
 
-<a href="https://cyhour.com/2015-happy-new-year.html" target="_blank">羊年快乐</a>，恭喜发财！
+<a href="http://cyhour.com/2015-happy-new-year.html" target="_blank">羊年快乐</a>，恭喜发财！
 
- [1]: https://cyhour.com/wp-content/uploads/2015/02/weather-forecast-ios.png
- [2]: https://cyhour.com/wp-content/uploads/2015/02/WordPress411-automatic.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/02/weather-forecast-ios.png
+ [2]: http://cyhour.com/wp-content/uploads/2015/02/WordPress411-automatic.png

@@ -1,6 +1,6 @@
 ---
 Title: 万网免费主机和阿里云免费备案体验
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /the-experience-of-net-cn-free-hosting-and-aliyun-free-record.html
 categories:
@@ -82,9 +82,9 @@ tags:
 
 发工单了，看能不能搞定备份到 Dropbox 的问题吧，待更新！
 
- [1]: https://cyhour.com/wp-content/uploads/2015/03/net-cn-promotion-free-times.png
- [2]: https://cyhour.com/wp-content/uploads/2015/03/net-cn-mingwenmima.png
- [3]: https://cyhour.com/wp-content/uploads/2015/03/net-cn-zhujihoutai.png
- [4]: https://cyhour.com/wp-content/uploads/2015/03/first-time-beian.png
- [5]: https://cyhour.com/wp-content/uploads/2015/03/first-time-beian-finish.png
- [6]: https://cyhour.com/wp-content/uploads/2015/03/net-cn-phpini.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/03/net-cn-promotion-free-times.png
+ [2]: http://cyhour.com/wp-content/uploads/2015/03/net-cn-mingwenmima.png
+ [3]: http://cyhour.com/wp-content/uploads/2015/03/net-cn-zhujihoutai.png
+ [4]: http://cyhour.com/wp-content/uploads/2015/03/first-time-beian.png
+ [5]: http://cyhour.com/wp-content/uploads/2015/03/first-time-beian-finish.png
+ [6]: http://cyhour.com/wp-content/uploads/2015/03/net-cn-phpini.png

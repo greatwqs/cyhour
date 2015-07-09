@@ -1,6 +1,6 @@
 ---
 title: C1驾照-科目一（考驾照）
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /lesson-one-of-learning-to-drive.html
 categories:
@@ -37,7 +37,7 @@ tags:
 如果你也在准备科目一考试的话，不妨下个【<a href="http://jiakaobaodian.com/2012/download.html" rel="external nofollow" target="_blank">驾考宝典</a>】，试题全部做两遍，做几次全真模拟考试，然后再把错题做两遍加强一下，考试基本上不会有什么问题。
 
 <div style="width: 650px" class="wp-caption aligncenter">
-  <img src="https://cyhour.com/wp-content/uploads/2013/08/jiakaobaodian.jpg" alt="驾考宝典" />
+  <img src="http://cyhour.com/wp-content/uploads/2013/08/jiakaobaodian.jpg" alt="驾考宝典" />
   
   <p class="wp-caption-text">
     驾考宝典

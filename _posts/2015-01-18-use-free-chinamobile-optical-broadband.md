@@ -1,6 +1,6 @@
 ---
 title: 免费的移动光宽带！
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /use-free-chinamobile-optical-broadband.html
 categories:
@@ -44,6 +44,6 @@ tags:
 ③手机套餐在承诺期内，只可以升档，不可以降档。  
 ④新增月套餐客户，需收100元宽带初装费，年套餐以上客户减免初装费。
 
- [1]: https://cyhour.com/wp-content/uploads/2015/01/chinamobile-free-upload.png
- [2]: https://cyhour.com/wp-content/uploads/2015/01/dianxin-upload.png
- [3]: https://cyhour.com/wp-content/uploads/2015/01/chinamobile-free-128.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2015/01/chinamobile-free-upload.png
+ [2]: http://cyhour.com/wp-content/uploads/2015/01/dianxin-upload.png
+ [3]: http://cyhour.com/wp-content/uploads/2015/01/chinamobile-free-128.jpg

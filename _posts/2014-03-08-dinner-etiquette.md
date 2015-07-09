@@ -1,6 +1,6 @@
 ---
 title: 饭局礼仪
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /dinner-etiquette.html
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Sublime Text 默认打开方式修复
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /sublime-text-default-open-mode-fixes.html
 categories:
@@ -23,4 +23,4 @@ zww大叔说 Sublime Text 3 基本上是秒开，于是网上找了个xx版，�
 
 然后，右键就可以设置默认打开方式了。
 
- [1]: https://cyhour.com/wp-content/uploads/2013/11/sublime_text3.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2013/11/sublime_text3.jpg

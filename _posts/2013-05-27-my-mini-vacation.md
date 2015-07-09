@@ -1,6 +1,6 @@
 ---
 title: 小长假
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /my-mini-vacation.html
 categories:

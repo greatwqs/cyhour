@@ -1,6 +1,6 @@
 ---
 title: OpenWRT用AP+WDS模式搭建无线中继
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /openwrt-ap-wds-wireless-repeater.html
 categories:
@@ -76,6 +76,6 @@ config wifi-iface
 
 参考2：[OpenWRT] RG100A刷OpenWrt超简单万能中继教程 http://forum.anywlan.com/thread-173666-1-1.html
 
- [1]: https://cyhour.com/wp-content/uploads/2014/03/main_wireless_setting.png
- [2]: https://cyhour.com/wp-content/uploads/2014/03/about_wireless.png
- [3]: https://cyhour.com/wp-content/uploads/2014/03/repeater_setting.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/03/main_wireless_setting.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/03/about_wireless.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/03/repeater_setting.png

@@ -1,6 +1,6 @@
 ---
 title: 印象笔记
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /yinxiangbiji.html
 categories:
@@ -19,7 +19,7 @@ tags:
 
 ![liantongwotequan][1]
 
-我的印象笔记推荐链接：<a href="https://cyhour.com/out/yinxiangbiji" target="_blank">GO！</a> （只要好友注册、安装并登录印象笔记，你就可以赚印象分，兑换高级帐户。 同时，好友也将获得高级帐户。<span style="color: #ff0000;">双赢哦！</span>）
+我的印象笔记推荐链接：<a href="http://cyhour.com/out/yinxiangbiji" target="_blank">GO！</a> （只要好友注册、安装并登录印象笔记，你就可以赚印象分，兑换高级帐户。 同时，好友也将获得高级帐户。<span style="color: #ff0000;">双赢哦！</span>）
 
 ![yinxiangbijituijian][2]
 
@@ -41,7 +41,7 @@ tags:
 
 ![yinxiangbijiguoqi][4]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/08/liantongwotequan.png
- [2]: https://cyhour.com/wp-content/uploads/2014/08/yinxiangbijituijian.jpg
- [3]: https://cyhour.com/wp-content/uploads/2014/08/my-yinxiangbiji.png
- [4]: https://cyhour.com/wp-content/uploads/2014/09/yinxiangbijiguoqi.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2014/08/liantongwotequan.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/08/yinxiangbijituijian.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2014/08/my-yinxiangbiji.png
+ [4]: http://cyhour.com/wp-content/uploads/2014/09/yinxiangbijiguoqi.jpg

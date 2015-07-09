@@ -1,6 +1,6 @@
 ---
 title: 记2013国庆
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /kee-2013-national-day.html
 categories:

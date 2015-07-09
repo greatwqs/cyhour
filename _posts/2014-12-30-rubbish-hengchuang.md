@@ -1,6 +1,6 @@
 ---
 title: 关于垃圾的恒创香港独立IP主机
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /rubbish-hengchuang.html
 categories:
@@ -41,11 +41,11 @@ tags:
 
 <span style = "color:red;">2014-12-11</span>，前前后后折腾将近一天，搬到了<a href="/out/hengchuang" target="_blank">恒创香港独立IP服务器</a>，全站启用 https （<a href="//cyhour.com/directadmin-install-startssl-free-ssl-certificates.html" target="_blank">StartSSL 的免费 SSL 证书</a>）。
 
- [1]: https://cyhour.com/wp-content/uploads/2015/01/hengchuang-20150108.jpg
- [2]: https://cyhour.com/wp-content/uploads/2015/01/hengchuang-20150101-Sorry.png
- [3]: https://cyhour.com/wp-content/uploads/2015/01/hengchuang-20150101.png
- [4]: https://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141231.png
- [5]: https://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141230.png
- [6]: https://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141225.png
- [7]: https://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141222.png
- [8]: https://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141221.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/01/hengchuang-20150108.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2015/01/hengchuang-20150101-Sorry.png
+ [3]: http://cyhour.com/wp-content/uploads/2015/01/hengchuang-20150101.png
+ [4]: http://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141231.png
+ [5]: http://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141230.png
+ [6]: http://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141225.png
+ [7]: http://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141222.png
+ [8]: http://cyhour.com/wp-content/uploads/2014/12/hengchuang-20141221.png

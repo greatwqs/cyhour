@@ -1,6 +1,6 @@
 ---
 title: TL-WR720N和TL-WR743N刷OpenWRT
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /tl-wr720n-tl-wr743n-upgrade-openwrt.html
 categories:
@@ -77,7 +77,7 @@ tags:
 
 固件分享自：恩山WIFI论坛 【TPlink WR743V2中国版 修改openwrt资料汇总,含4、8M固件，带8M httpd刷不死的uboot】http://www.right.com.cn/forum/thread-78618-1-1.html
 
- [1]: https://cyhour.com/wp-content/uploads/2014/03/Gargoyle_WR720NV3.png
- [2]: https://cyhour.com/wp-content/uploads/2014/03/743N_Uboot.jpg
- [3]: https://cyhour.com/wp-content/uploads/2014/03/ssh_743n.jpg
- [4]: https://cyhour.com/wp-content/uploads/2014/03/743N_SCP.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/03/Gargoyle_WR720NV3.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/03/743N_Uboot.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2014/03/ssh_743n.jpg
+ [4]: http://cyhour.com/wp-content/uploads/2014/03/743N_SCP.png

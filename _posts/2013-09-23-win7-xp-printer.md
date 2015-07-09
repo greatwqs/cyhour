@@ -1,6 +1,6 @@
 ---
 title: Win7连接XP打印机问题
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /win7-xp-printer.html
 categories:

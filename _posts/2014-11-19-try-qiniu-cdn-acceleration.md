@@ -1,6 +1,6 @@
 ---
 title: 试用七牛CDN加速
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /try-qiniu-cdn-acceleration.html
 categories:
@@ -17,7 +17,7 @@ tags:
 <a href="https://wordpress.org/plugins/db-cache-reloaded-fix/" target="_blank">DB Cache Reloaded Fix</a> 和 <a href="https://wordpress.org/plugins/wp-super-cache/" target="_blank">WP Super Cache</a> 是我一直在用的缓存插件，CDN 就用WP Super Cache自带的，方便。附上配置图：
 
 <div style="width: 855px" class="wp-caption aligncenter">
-  <img src="https://cyhour.com/wp-content/uploads/2014/11/WP-Super-Cache-CDN.png" alt="WP Super Cache CDN 配置" />
+  <img src="http://cyhour.com/wp-content/uploads/2014/11/WP-Super-Cache-CDN.png" alt="WP Super Cache CDN 配置" />
   
   <p class="wp-caption-text">
     WP Super Cache CDN 配置

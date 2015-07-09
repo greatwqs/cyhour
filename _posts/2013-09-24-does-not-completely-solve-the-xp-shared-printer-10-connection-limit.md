@@ -1,6 +1,6 @@
 ---
 title: 不彻底解决XP共享打印机10连接数限制
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /does-not-completely-solve-the-xp-shared-printer-10-connection-limit.html
 categories:

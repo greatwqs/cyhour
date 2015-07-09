@@ -1,6 +1,6 @@
 ---
 title: 没有节操的万能钥匙
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /fuck-lianwifi.html
 categories:
@@ -19,4 +19,4 @@ tags:
 
 你在用吗？
 
- [1]: https://cyhour.com/wp-content/uploads/2014/09/fuck-lanwifi.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/09/fuck-lanwifi.png

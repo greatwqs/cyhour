@@ -1,6 +1,6 @@
 ---
 title: 'WordPress 归档页面模板[WP原生函数实现2014版]'
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /wordpress-archive-page-template-wp-primary-function-2014-edition.html
 categories:

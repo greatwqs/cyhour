@@ -1,6 +1,6 @@
 ---
 title: 2015 春节就是吃吃吃…
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /2015-spring-festival-is-all-about-eating.html
 categories:

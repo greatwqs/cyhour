@@ -1,6 +1,6 @@
 ---
 title: 保护 WIFI 不被万能钥匙分享
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /protect-wifi-not-be-shared-by-lanwifi.html
 categories:
@@ -23,4 +23,4 @@ tags:
 
 原文地址：http://forum.anywlan.com/thread-343165-1-1.html
 
- [1]: https://cyhour.com/wp-content/uploads/2014/12/Protect-WIFI-not-be-shared-by-lanwifi.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/12/Protect-WIFI-not-be-shared-by-lanwifi.png

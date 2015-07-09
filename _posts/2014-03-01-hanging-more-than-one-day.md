@@ -1,6 +1,6 @@
 ---
 title: 挂了一天多
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /hanging-more-than-one-day.html
 categories:

@@ -1,6 +1,6 @@
 ---
 title: WordPress评论通过审核后邮件通知评论者
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /wordpress-email-notify-after-comment-approved.html
 categories:
@@ -26,4 +26,4 @@ RT，评论通过审核后，给评论者发送一封通知邮件。
   ——修改自 露兜 http://www.ludou.org/wordpress-email-notify-after-comment-approved.html
 </p>
 
- [1]: https://cyhour.com/wp-content/uploads/2013/11/wordpress-email-notify-after-comment-approved.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2013/11/wordpress-email-notify-after-comment-approved.jpg

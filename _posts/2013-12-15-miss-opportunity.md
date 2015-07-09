@@ -1,6 +1,6 @@
 ---
 title: C1驾照-失之交臂（科目二）
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /miss-opportunity.html
 categories:
@@ -32,4 +32,4 @@ tags:
 
 哎，cn特色，又或者是gz特色？
 
- [1]: https://cyhour.com/wp-content/uploads/2013/12/stop-at-subject-two.png
+ [1]: http://cyhour.com/wp-content/uploads/2013/12/stop-at-subject-two.png

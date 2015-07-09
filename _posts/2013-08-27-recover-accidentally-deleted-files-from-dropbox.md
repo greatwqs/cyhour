@@ -1,6 +1,6 @@
 ---
 title: Dropbox找回误删文件
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /recover-accidentally-deleted-files-from-dropbox.html
 categories:

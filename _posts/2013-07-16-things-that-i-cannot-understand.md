@@ -1,6 +1,6 @@
 ---
 title: 我所不能理解的事
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /things-that-i-cannot-understand.html
 categories:

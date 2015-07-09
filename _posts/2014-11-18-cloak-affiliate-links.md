@@ -1,10 +1,10 @@
 ---
 title: 简化和管理外部推荐链接
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /cloak-affiliate-links.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - wordpress
 ---
@@ -52,4 +52,4 @@ tags:
 
 如上面的网址无法下载文件，可在此下载：[链接][1]。
 
- [1]: https://cyhour.com/wp-content/uploads/files/out.rar
+ [1]: http://cyhour.com/wp-content/uploads/files/out.rar

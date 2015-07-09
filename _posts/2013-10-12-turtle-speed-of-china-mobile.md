@@ -1,6 +1,6 @@
 ---
 title: 龟速的移不动
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /turtle-speed-of-china-mobile.html
 categories:

@@ -1,6 +1,6 @@
 ---
 title: WordPress 如何有效应对垃圾评论？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /wordpress-how-to-effectively-deal-with-spam.html
 categories:
@@ -22,13 +22,13 @@ tags:
 
 <span style = "color:red;">注意把 example.com 换成自己的域名！！！</span>
 
-二、<a href="https://cyhour.com/comment-spam.html" target="_blank">对比Gravatar头像md5拦截垃圾评论</a> ， 曾经用过，效果很好，用上之后世界瞬间清净，垃圾评论几乎绝迹。<span style = "color:red;">缺点：</span>误伤正常的评论网友（特别是在咱们国家，想注册个 <a href="http://en.gravatar.com/" target="_blank">Gravatar</a> 头像也不是件容易的事情）。最近把这段代码从主题的functions.php去除了。
+二、<a href="http://cyhour.com/comment-spam.html" target="_blank">对比Gravatar头像md5拦截垃圾评论</a> ， 曾经用过，效果很好，用上之后世界瞬间清净，垃圾评论几乎绝迹。<span style = "color:red;">缺点：</span>误伤正常的评论网友（特别是在咱们国家，想注册个 <a href="http://en.gravatar.com/" target="_blank">Gravatar</a> 头像也不是件容易的事情）。最近把这段代码从主题的functions.php去除了。
 
-三、<a href="https://cyhour.com/to-intercept-spam-without-plugin.html" target="_blank">拦截无中文或有日文垃圾评论</a>，这个效果一般，对 POST 方式的垃圾评论无效，主要是防部分人肉的垃圾评论。（目前在用，但是加了简单判断是否老是用户，如果是则不拦截）
+三、<a href="http://cyhour.com/to-intercept-spam-without-plugin.html" target="_blank">拦截无中文或有日文垃圾评论</a>，这个效果一般，对 POST 方式的垃圾评论无效，主要是防部分人肉的垃圾评论。（目前在用，但是加了简单判断是否老是用户，如果是则不拦截）
 
-四、<a href="https://cyhour.com/289.html" target="_blank">直接拒绝wordpress黑名单评论的发表</a> ，这个可以省点处理垃圾评论的时间。曾在 <a href="http://www.v2ex.com/t/148162" target="_blank">V2EX 上收集过黑名单关键词</a>，不过一个都没收集到，网友都给出了很多其他的方法。（目前老用户可以提交黑名单的关键词，但是Wordpress还是会自动过滤到垃圾评论，得手工找出来）
+四、<a href="http://cyhour.com/289.html" target="_blank">直接拒绝wordpress黑名单评论的发表</a> ，这个可以省点处理垃圾评论的时间。曾在 <a href="http://www.v2ex.com/t/148162" target="_blank">V2EX 上收集过黑名单关键词</a>，不过一个都没收集到，网友都给出了很多其他的方法。（目前老用户可以提交黑名单的关键词，但是Wordpress还是会自动过滤到垃圾评论，得手工找出来）
 
-五、<a href="https://cyhour.com/wordpress-new-ajax-comments.html" target="_blank">AJAX提交评论+删除wp-post-comment.php文件</a>，这条原理和第一种方法一样，主要是防止机器人用 POST 方式通过 wp-post-comment.php 提交评论。（目前在用）
+五、<a href="http://cyhour.com/wordpress-new-ajax-comments.html" target="_blank">AJAX提交评论+删除wp-post-comment.php文件</a>，这条原理和第一种方法一样，主要是防止机器人用 POST 方式通过 wp-post-comment.php 提交评论。（目前在用）
 
 六、彻底禁止所有文章和页面的pingback和trackback，PhpMyAdmin执行以下 MySQL语句<span style = "color:red;">（注意数据表前缀）</span>。
 

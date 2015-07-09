@@ -1,6 +1,6 @@
 ---
 title: 搬瓦工傻瓜式搭建Open梯子
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /advance-surfing-internet.html
 categories:
@@ -9,7 +9,7 @@ tags:
   - bandwagonhost
   - 高级上网
 ---
-傻瓜式，相当简单。首先当然是购买，我买的是 <a href="https://cyhour.com/out/bandwagonhost512M" target="_blank">512MB</a> 的。然后在 Services -> My Services 下查看已购买的 VPS ，点击 kiwiVM Control Panel 即可进入 VPS 管理页面。  
+傻瓜式，相当简单。首先当然是购买，我买的是 <a href="http://cyhour.com/out/bandwagonhost512M" target="_blank">512MB</a> 的。然后在 Services -> My Services 下查看已购买的 VPS ，点击 kiwiVM Control Panel 即可进入 VPS 管理页面。  
 
 
   
@@ -31,10 +31,10 @@ Mac、Android 和 iOS 下载地址：http://openvp<span style = "color:red;">S</
 
 另附上64M、96M、128M 和 512M 简单参数价格对比：
 
-  1. <a href="https://cyhour.com/out/bandwagonhost64M" target="_blank">64M VPS</a>：年付 $3.99 美金；HDD: 1.5 GB；RAM: 64 MB；CPU: 1x Intel Xeon；BW: 100 GB/mo。
-  2. <a href="https://cyhour.com/out/bandwagonhost96M" target="_blank">96M VPS</a>：年付 $4.99 美金；HDD: 2 GB；RAM: 96 MB；CPU: 1x Intel Xeon；BW: 200 GB/mo。
-  3. <a href="https://cyhour.com/out/bandwagonhost128M" target="_blank">128M VPS</a>：年付 $5.99 美金；HDD: 3 GB；RAM: 128 MB；CPU: 1x Intel Xeon；BW: 300 GB/mo。
-  4. <a href="https://cyhour.com/out/bandwagonhost512M" target="_blank">512M VPS</a>：年付 $9.99 美金；HDD: 5 GB SSD；RAM: 512 MB；CPU: 1x Intel Xeon；BW: 500 GB/mo；Link speed: 1 Gigabit。
+  1. <a href="http://cyhour.com/out/bandwagonhost64M" target="_blank">64M VPS</a>：年付 $3.99 美金；HDD: 1.5 GB；RAM: 64 MB；CPU: 1x Intel Xeon；BW: 100 GB/mo。
+  2. <a href="http://cyhour.com/out/bandwagonhost96M" target="_blank">96M VPS</a>：年付 $4.99 美金；HDD: 2 GB；RAM: 96 MB；CPU: 1x Intel Xeon；BW: 200 GB/mo。
+  3. <a href="http://cyhour.com/out/bandwagonhost128M" target="_blank">128M VPS</a>：年付 $5.99 美金；HDD: 3 GB；RAM: 128 MB；CPU: 1x Intel Xeon；BW: 300 GB/mo。
+  4. <a href="http://cyhour.com/out/bandwagonhost512M" target="_blank">512M VPS</a>：年付 $9.99 美金；HDD: 5 GB SSD；RAM: 512 MB；CPU: 1x Intel Xeon；BW: 500 GB/mo；Link speed: 1 Gigabit。
 
 <span style = "color:red;">使用情况：</span>Windows下速度不稳定，有时候看 youtube 飞快，有时候慢如蜗牛；iOS下链接不稳定，经常会断开。
 
@@ -48,8 +48,8 @@ VPS 折腾不来，速度不稳定，退款了。
 
 ![BandwagonHostCancellationRequestConfirmation][5]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/12/bandwagonhost-512M-01.png
- [2]: https://cyhour.com/wp-content/uploads/2014/12/bandwagonhost-512M-02.png
- [3]: https://cyhour.com/wp-content/uploads/2014/12/bandhost-install.png
- [4]: https://cyhour.com/wp-content/uploads/2014/12/Completed-Download-Keys.png
- [5]: https://cyhour.com/wp-content/uploads/2014/12/BandwagonHostCancellationRequestConfirmation.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/12/bandwagonhost-512M-01.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/12/bandwagonhost-512M-02.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/12/bandhost-install.png
+ [4]: http://cyhour.com/wp-content/uploads/2014/12/Completed-Download-Keys.png
+ [5]: http://cyhour.com/wp-content/uploads/2014/12/BandwagonHostCancellationRequestConfirmation.png

@@ -1,11 +1,11 @@
 ---
 Date: 2015-05-04 18:22
 title: 放下手机，去空气里跑跑
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /put-down-the-phone-running-in-the-air.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 跑步
 ---
@@ -65,4 +65,4 @@ tags:
 
 原文作者：[冯唐](http://mp.weixin.qq.com/s?__biz=MjM5OTI4MzQxNA==&mid=206972389&idx=1&sn=88ab86bf653ca0844475925454d355d3&scene=2&from=timeline&isappinstalled=0&key=1936e2bc22c2ceb512b41c6c3d76019c6c17ef3ac59c9f22190e2ae78deb500e02fc1765c49080276209b94da35bcaa4&ascene=1&uin=MTU1MDIyNTIyMA%3D%3D&devicetype=webwx&version=70000001&pass_ticket=3NA%2FUakUJmO5qFvTLTTGC%2BZNZyHZMr%2BLllupCpdhX3OB6GPvEQvAUPlel50a%2Bdje)
 
-[广告]　[GreenVPN是一款运营多年的绿色、稳定、安全的VPN产品，帮助您轻松浏览Google、‍Facebook、Youtube、Twitter等，使用简单，手机电脑全平台支持，可免费试用，值得推荐。](https://cyhour.com/out/greenvpn)
+[广告]　[GreenVPN是一款运营多年的绿色、稳定、安全的VPN产品，帮助您轻松浏览Google、‍Facebook、Youtube、Twitter等，使用简单，手机电脑全平台支持，可免费试用，值得推荐。](http://cyhour.com/out/greenvpn)

@@ -1,6 +1,6 @@
 ---
 title: 绕过百度网盘2G以上大文件下载限制
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /crack-baidu-network-disk-download-large-files-more-than-2g-limit.html
 categories:

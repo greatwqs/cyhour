@@ -1,6 +1,6 @@
 ---
 title: 折腾WordPress MU多站点设置与独立域名映射
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /enable-wordpress-mu-function-and-map-domain-for-network-blogs.html
 categories:

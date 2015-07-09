@@ -1,6 +1,6 @@
 ---
 title: 我的流量哪里去了？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /where-my-traffic-are-going.html
 categories:
@@ -26,6 +26,6 @@ tags:
 
 ![media][3]
 
- [1]: https://cyhour.com/wp-content/uploads/2013/11/DailyUsage.jpg
- [2]: https://cyhour.com/wp-content/uploads/2013/11/Usage.png
- [3]: https://cyhour.com/wp-content/uploads/2013/11/media.png
+ [1]: http://cyhour.com/wp-content/uploads/2013/11/DailyUsage.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2013/11/Usage.png
+ [3]: http://cyhour.com/wp-content/uploads/2013/11/media.png

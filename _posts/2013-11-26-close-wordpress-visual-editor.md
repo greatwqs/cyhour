@@ -1,6 +1,6 @@
 ---
 title: 关闭WordPress可视化编辑器
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /close-wordpress-visual-editor.html
 categories:

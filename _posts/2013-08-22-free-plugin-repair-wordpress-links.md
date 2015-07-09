@@ -1,6 +1,6 @@
 ---
 title: 免插件修复WordPress友情链接功能
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /free-plugin-repair-wordpress-links.html
 categories:

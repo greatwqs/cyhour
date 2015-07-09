@@ -1,6 +1,6 @@
 ---
 title: 永久有多久？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /how-long-is-forever.html
 categories:
@@ -35,7 +35,7 @@ tags:
 
 <span style="color: #ff0000;text-align: center;font-size:48px">亲，您还敢用吗？</span>
 
- [1]: https://cyhour.com/wp-content/uploads/2014/03/yunnuo-forever.png
- [2]: https://cyhour.com/wp-content/uploads/2014/03/yunnuo-shoufei.png
- [3]: https://cyhour.com/wp-content/uploads/2014/03/yunnuo-qinmin.png
- [4]: https://cyhour.com/wp-content/uploads/2014/03/yunnuo-lucky.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/03/yunnuo-forever.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/03/yunnuo-shoufei.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/03/yunnuo-qinmin.png
+ [4]: http://cyhour.com/wp-content/uploads/2014/03/yunnuo-lucky.png

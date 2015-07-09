@@ -1,6 +1,6 @@
 ---
 title: 提问的智慧
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /how-to-ask-questions-the-smart-way.html
 categories:
@@ -593,6 +593,6 @@ tags:
 翻译：王刚 <yafrank at 126 dot com >  
 时间：2010年9月28日
 
- [1]: https://cyhour.com/wp-content/uploads/2013/11/How.to_.Ask_.Questions.The_.Smart_.Way_.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2013/11/How.to_.Ask_.Questions.The_.Smart_.Way_.jpg
  [2]: http://www.wapm.cn/smart-questions/smart-questions-zh.html#before "Before You Ask"
  [3]: http://www.catb.org/%7Eesr/faqs/smart-questions.html

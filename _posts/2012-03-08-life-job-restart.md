@@ -1,6 +1,6 @@
 ---
 title: 重回起点
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /life-job-restart.html
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 推荐一站式WordPress备份插件BackWPup
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /wordpress-plugin-backwpup.html
 categories:

@@ -1,10 +1,10 @@
 ---
 title: 这世界欠你了？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /the-world-owes-you.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 怀才不遇
 ---

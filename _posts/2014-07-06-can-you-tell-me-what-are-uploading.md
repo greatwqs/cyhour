@@ -1,6 +1,6 @@
 ---
 title: 迅雷，能告诉我你在上传什么吗？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /can-you-tell-me-what-are-uploading.html
 categories:
@@ -28,7 +28,7 @@ tags:
 
 ![turnoff-upload][4]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/07/xunlei_upload.png
- [2]: https://cyhour.com/wp-content/uploads/2014/07/dianxin_tisu_100M.png
- [3]: https://cyhour.com/wp-content/uploads/2014/07/dianxin_tisu.png
- [4]: https://cyhour.com/wp-content/uploads/2015/04/turnoff-upload.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/07/xunlei_upload.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/07/dianxin_tisu_100M.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/07/dianxin_tisu.png
+ [4]: http://cyhour.com/wp-content/uploads/2015/04/turnoff-upload.png

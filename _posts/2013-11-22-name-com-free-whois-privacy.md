@@ -1,6 +1,6 @@
 ---
 title: Name.Com免费隐私保护优惠码
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /name-com-free-whois-privacy.html
 categories:

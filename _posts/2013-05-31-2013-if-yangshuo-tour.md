@@ -1,6 +1,6 @@
 ---
 title: IF 2013阳朔之旅
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /2013-if-yangshuo-tour.html
 categories:

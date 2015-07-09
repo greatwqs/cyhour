@@ -1,6 +1,6 @@
 ---
 title: 极路由
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /one-hiwifi.html
 categories:
@@ -51,4 +51,4 @@ tags:
 
 设计师：极路由团队 http://huodong.hiwifi.com/game/one/index.html
 
- [1]: https://cyhour.com/wp-content/uploads/2014/05/hiwifi-one.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/05/hiwifi-one.png

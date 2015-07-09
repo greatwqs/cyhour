@@ -1,6 +1,6 @@
 ---
 title: 神奇药笔
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /magical-medicine-pen.html
 categories:
@@ -43,7 +43,7 @@ tags:
 
 <span style="color: #0000ff;font-size: 18px; font-size: 1.8rem;">有需要的朋友可以试试。</span>
 
- [1]: https://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-1.jpg
- [2]: https://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-2.jpg
- [3]: https://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-3.jpg
- [4]: https://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-4.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-1.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-2.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-3.jpg
+ [4]: http://cyhour.com/wp-content/uploads/2013/08/shenqiyaobi-4.jpg

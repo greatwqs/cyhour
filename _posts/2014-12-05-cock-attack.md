@@ -1,6 +1,6 @@
 ---
 title: 贼心不死
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /cock-attack.html
 categories:
@@ -8,7 +8,7 @@ categories:
 tags:
   - 攻击
 ---
-<a href="https://cyhour.com/be-hacked.html" target="_blank">半个多月前被悄无声息的安装了插件</a>，好几天后才发现。重新安装了 WordPress 导入文章数据，一直担心不知道什么时候又被安装什么东西，所以现在时不时会检查一下插件有没多，用户有没多……
+<a href="http://cyhour.com/be-hacked.html" target="_blank">半个多月前被悄无声息的安装了插件</a>，好几天后才发现。重新安装了 WordPress 导入文章数据，一直担心不知道什么时候又被安装什么东西，所以现在时不时会检查一下插件有没多，用户有没多……
 
 前两天，加了段登陆提醒代码，不管登陆成功失败都会发邮件提醒。今天早上，打开邮箱，发现有几十封登陆失败的邮件提醒，看了看都是国外的 IP，没有用户名和密码的。今天啥日子？
 
@@ -31,7 +31,7 @@ http://blog.gimhoy.com/archives/wordpress-login-notification-with-location-info.
 
 <span style = "color:red;">小伙伴们，除了安装插件有没啥好的方法防止攻击或者被黑呢？</span>
 
- [1]: https://cyhour.com/wp-content/uploads/2014/12/Cock-attack-1.png
- [2]: https://cyhour.com/wp-content/uploads/2014/12/Cock-attack-2.png
- [3]: https://cyhour.com/wp-content/uploads/2014/12/Cock-attack-3.png
- [4]: https://cyhour.com/wp-content/uploads/2014/12/Cock-attack-4.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/12/Cock-attack-1.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/12/Cock-attack-2.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/12/Cock-attack-3.png
+ [4]: http://cyhour.com/wp-content/uploads/2014/12/Cock-attack-4.png

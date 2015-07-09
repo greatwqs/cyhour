@@ -1,6 +1,6 @@
 ---
 title: 烦人的弹窗
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /fuck-tengxun.html
 categories:
@@ -20,6 +20,6 @@ tags:
 
 ![tengxundayuexinwendanchuang2][3]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/08/tanchuanglanjie.png
- [2]: https://cyhour.com/wp-content/uploads/2014/08/tengxundayuexinwendanchuang.png
- [3]: https://cyhour.com/wp-content/uploads/2014/08/tengxundayuexinwendanchuang2.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/08/tanchuanglanjie.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/08/tengxundayuexinwendanchuang.png
+ [3]: http://cyhour.com/wp-content/uploads/2014/08/tengxundayuexinwendanchuang2.png

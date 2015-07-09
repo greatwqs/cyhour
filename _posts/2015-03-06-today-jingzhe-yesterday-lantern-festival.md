@@ -1,6 +1,6 @@
 ---
 title: '2015 元宵&#038;惊蛰'
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /today-jingzhe-yesterday-lantern-festival.html
 categories:
@@ -31,7 +31,7 @@ tags:
 
 ![ huangweizifan ][4]
 
- [1]: https://cyhour.com/wp-content/uploads/2015/03/2015-3-5-yuanxiaohuo.jpg
- [2]: https://cyhour.com/wp-content/uploads/2015/03/2015-3-5-yuanxiaoyanhua.jpg
- [3]: https://cyhour.com/wp-content/uploads/2015/03/huangweizi.jpg
- [4]: https://cyhour.com/wp-content/uploads/2015/03/huangweizifan.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2015/03/2015-3-5-yuanxiaohuo.jpg
+ [2]: http://cyhour.com/wp-content/uploads/2015/03/2015-3-5-yuanxiaoyanhua.jpg
+ [3]: http://cyhour.com/wp-content/uploads/2015/03/huangweizi.jpg
+ [4]: http://cyhour.com/wp-content/uploads/2015/03/huangweizifan.jpg

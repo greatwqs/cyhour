@@ -1,6 +1,6 @@
 ---
 title: '&#8220;天狗&#8221;诞生了'
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /jd-dog-born.html
 categories:
@@ -21,4 +21,4 @@ tags:
 
 ![JD-dog][1]
 
- [1]: https://cyhour.com/wp-content/uploads/2013/04/JD-dog.png
+ [1]: http://cyhour.com/wp-content/uploads/2013/04/JD-dog.png

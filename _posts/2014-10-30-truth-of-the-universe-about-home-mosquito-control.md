@@ -1,10 +1,10 @@
 ---
 title: 家居防蚊的宇宙真理
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /truth-of-the-universe-about-home-mosquito-control.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 登革热
   - 蚊子

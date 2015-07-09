@@ -1,6 +1,6 @@
 ---
 title: 小记win7连接win7共享打印机
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /sth-about-win7-link-win7-shared-printer.html
 categories:

@@ -1,10 +1,10 @@
 ---
 title: 找找找电影
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /search-film.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - BT
   - 电影

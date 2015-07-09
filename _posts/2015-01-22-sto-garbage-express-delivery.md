@@ -1,6 +1,6 @@
 ---
 title: 申通快递——垃圾快递中的战斗机！
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /sto-garbage-express-delivery.html
 categories:
@@ -25,5 +25,5 @@ tags:
 
 <span style = "color:red;">申通快递——垃圾快递中的战斗机！</span>
 
- [1]: https://cyhour.com/wp-content/uploads/2015/01/sto-garbage-express-delivery-01.png
- [2]: https://cyhour.com/wp-content/uploads/2015/01/sto-garbage-express-delivery-02.png
+ [1]: http://cyhour.com/wp-content/uploads/2015/01/sto-garbage-express-delivery-01.png
+ [2]: http://cyhour.com/wp-content/uploads/2015/01/sto-garbage-express-delivery-02.png

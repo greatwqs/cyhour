@@ -1,6 +1,6 @@
 ---
 title: 自由Freedom
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /ziyou-freedom.html
 categories:

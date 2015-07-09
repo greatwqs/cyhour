@@ -20,4 +20,4 @@ tags:
 
 “习惯了就好”，在我的理解，是对环境的屈服，这屈服的过程越艰辛，适应新环境的能力就越差。人生的变数很多，环境的改变有主动的选择也有被动的接受，作为自动选择的一方，又该对这句话报以何种态度呢？
 
- [1]: https://cyhour.com/wp-content/uploads/2014/12/OT-CZ-20141217.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2014/12/OT-CZ-20141217.jpg

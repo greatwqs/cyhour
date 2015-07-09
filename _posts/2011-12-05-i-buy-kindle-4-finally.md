@@ -1,6 +1,6 @@
 ---
 title: 终于还是买了电纸书Kindle4
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /i-buy-kindle-4-finally.html
 categories:

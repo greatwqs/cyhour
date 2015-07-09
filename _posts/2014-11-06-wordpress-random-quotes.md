@@ -1,6 +1,6 @@
 ---
 title: WordPress 随机显示名人格言
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /wordpress-random-quotes.html
 categories:
@@ -8,7 +8,7 @@ categories:
 tags:
   - 名言格言
 ---
-在 <a href="http://program-think.blogspot.com/" target="_blank">编程随想</a> <span style = "color:red;">（需梯子）</span>的博客看到个不错的功能——随机显示博主精选的名人格言，稍稍折腾，我也加上了这功能了（在首页随机显示我喜欢的句子）。 <img src="https://cyhour.com/wp-includes/images/smilies/icon_razz.gif" alt=":razz:" class="wp-smiley" />  
+在 <a href="http://program-think.blogspot.com/" target="_blank">编程随想</a> <span style = "color:red;">（需梯子）</span>的博客看到个不错的功能——随机显示博主精选的名人格言，稍稍折腾，我也加上了这功能了（在首页随机显示我喜欢的句子）。 <img src="http://cyhour.com/wp-includes/images/smilies/icon_razz.gif" alt=":razz:" class="wp-smiley" />  
 
 
 网上（官网的是英文版的格言）有现成的插件，<a href="http://xinple.org/?p=37" rel="nofollow" target="_blank">传送门</a>。一个很简单的插件，其实可以集成到 functions.php 去。不过格言也存放在插件的php文件里面，集成到 functions.php 里面可能就很乱了，还是单独一个插件比较好。

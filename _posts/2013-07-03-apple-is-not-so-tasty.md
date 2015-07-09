@@ -1,6 +1,6 @@
 ---
 title: 苹果并没有那么的可口
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /apple-is-not-so-tasty.html
 categories:

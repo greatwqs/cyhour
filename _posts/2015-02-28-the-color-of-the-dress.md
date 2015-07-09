@@ -1,6 +1,6 @@
 ---
 Title: 你看到的是“蓝黑”还是“白金”？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /the-color-of-the-dress.html
 categories:
@@ -14,8 +14,8 @@ tags:
   
 看下图
 
-![image](https://cyhour.com/wp-content/uploads/2015/02/The-color-of-the-Dress.jpg)
+![image](http://cyhour.com/wp-content/uploads/2015/02/The-color-of-the-Dress.jpg)
 
 原理：via <a href="http://www.guokr.com/article/439985/" target="_blank">果壳：这裙子，到底是“蓝黑”还是“白金”？</a>
 
-![image](https://cyhour.com/wp-content/uploads/2015/02/The-color-of-the-Dress-guoke.jpg)
+![image](http://cyhour.com/wp-content/uploads/2015/02/The-color-of-the-Dress-guoke.jpg)

@@ -1,6 +1,6 @@
 ---
 title: 写在博起一年
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /write-on-blogging-one-year.html
 categories:

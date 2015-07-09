@@ -1,6 +1,6 @@
 ---
 title: 移除亚马逊kindle电子书DRM保护
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /importing-kindle-books-with-calibre-and-remove-drm-protection.html
 categories:
@@ -34,4 +34,4 @@ tags:
 
 ![importing-kindle-books-with-calibre-and-remove-drm-protection-pic][1]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/08/importing-kindle-books-with-calibre-and-remove-drm-protection-pic.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/08/importing-kindle-books-with-calibre-and-remove-drm-protection-pic.png

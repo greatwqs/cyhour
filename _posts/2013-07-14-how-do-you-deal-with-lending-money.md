@@ -1,10 +1,10 @@
 ---
 title: 借钱这个事情您怎么处理？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /how-do-you-deal-with-lending-money.html
 categories:
-  - 大肥羊转载
+  - 老杨转载
 tags:
   - 借钱
 ---

@@ -1,6 +1,6 @@
 ---
 title: iOS 7.0.4 忘记4位锁屏密码折腾记
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /ios-7-0-4-forgot-lockscreen-password.html
 categories:
@@ -53,7 +53,7 @@ tags:
         
         
         <div style="width: 589px" class="wp-caption aligncenter">
-          <img src="https://cyhour.com/wp-content/uploads/2014/10/cannot-find-my-iphone.jpg" alt="没有网络，find my iPhone 也只是个摆设" />
+          <img src="http://cyhour.com/wp-content/uploads/2014/10/cannot-find-my-iphone.jpg" alt="没有网络，find my iPhone 也只是个摆设" />
           
           <p class="wp-caption-text">
             没有网络，find my iPhone 也只是个摆设
@@ -70,5 +70,5 @@ tags:
         
         ![iOS-7.0.4-forgot-lockscreen-password-2][2]
 
- [1]: https://cyhour.com/wp-content/uploads/2014/10/iOS-7.0.4-forgot-lockscreen-password-1.png
- [2]: https://cyhour.com/wp-content/uploads/2014/10/iOS-7.0.4-forgot-lockscreen-password-2.png
+ [1]: http://cyhour.com/wp-content/uploads/2014/10/iOS-7.0.4-forgot-lockscreen-password-1.png
+ [2]: http://cyhour.com/wp-content/uploads/2014/10/iOS-7.0.4-forgot-lockscreen-password-2.png

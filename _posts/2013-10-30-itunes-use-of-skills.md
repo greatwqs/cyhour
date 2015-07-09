@@ -1,6 +1,6 @@
 ---
 title: iTunes 使用技巧
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /itunes-use-of-skills.html
 categories:

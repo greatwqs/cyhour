@@ -1,6 +1,6 @@
 ---
 title: 越来越肿的 iOS Apps
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /more-and-more-swelling-apps.html
 categories:

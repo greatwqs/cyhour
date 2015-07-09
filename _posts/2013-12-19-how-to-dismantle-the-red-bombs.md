@@ -1,6 +1,6 @@
 ---
 title: 红色炸弹怎么拆？
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /how-to-dismantle-the-red-bombs.html
 categories:
@@ -33,4 +33,4 @@ tags:
 
 总而言之，喜帖、礼金，这种礼俗既然是避免不掉，还是要多考虑一下所谓礼尚往来的艺术，现在有来、将来有往，才不至于在授与受之间， 造成双方心里有那么一点点不爽！
 
- [1]: https://cyhour.com/wp-content/uploads/2013/12/jiehunhongbao.jpg
+ [1]: http://cyhour.com/wp-content/uploads/2013/12/jiehunhongbao.jpg

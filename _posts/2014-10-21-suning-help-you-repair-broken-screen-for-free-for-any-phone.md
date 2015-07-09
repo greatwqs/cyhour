@@ -1,6 +1,6 @@
 ---
 title: 苏宁免费为任何碎屏手机换屏
-author: 大肥羊
+author: 老杨
 layout: post
 permalink: /suning-help-you-repair-broken-screen-for-free-for-any-phone.html
 categories:
@@ -19,7 +19,7 @@ tags:
 亲测领取成功
 
 <div style="width: 550px" class="wp-caption aligncenter">
-  <img src="https://cyhour.com/wp-content/uploads/2014/10/suningmianfeihuanping-2.jpg" alt="屏安险" />
+  <img src="http://cyhour.com/wp-content/uploads/2014/10/suningmianfeihuanping-2.jpg" alt="屏安险" />
   
   <p class="wp-caption-text">
     屏安险
@@ -87,7 +87,7 @@ tags:
 其它详情：http://sale.suning.com/images/advertise/007/10spb/index.html
 
 <div style="width: 810px" class="wp-caption aligncenter">
-  <img src="https://cyhour.com/wp-content/uploads/2014/10/suningmianfeihuanping-1.jpg" alt="苏宁免费换屏" />
+  <img src="http://cyhour.com/wp-content/uploads/2014/10/suningmianfeihuanping-1.jpg" alt="苏宁免费换屏" />
   
   <p class="wp-caption-text">
     苏宁免费换屏
