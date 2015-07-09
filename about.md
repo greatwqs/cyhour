@@ -6,7 +6,7 @@ permalink: /about/
 
 这是一个同步站，主站：常阳时光 http://cyhour.com
 
-谨以此博记录我们（[老杨](/author/bfy) & [小嫦子](/author/xcz)）的生活！「常阳时光」——「常」取自「小嫦子」，「阳」取自「老杨」，「时光」我们的生活时光！
+谨以此博记录我们（[老杨](http://cyhour.com/author/bfy) & [小嫦子](http://cyhour.com/author/xcz)）的生活！「常阳时光」——「常」取自「小嫦子」，「阳」取自「老杨」，「时光」我们的生活时光！
 
 <span style = "color:blue;">建议使用 Firefox、Chrome 或者 Safari 浏览本站。</span>
 
@@ -47,7 +47,7 @@ permalink: /about/
 24.  2015-02-11 主题 [publish](https://wordpress.org/themes/publish) 已被精简为单栏，加了个头部fixed固定和隐藏的搜索框
 25.  2015-02-28 过年的时候把博客色调改为了普通红色（#c30），合并【读者墙】 至归档页面。
 26.  2015-04-07 前阵子清理了很多转载的文章，Google 站长工具提示网站存在严重错误，抓取到 n 多 404，今天提交了整站删除，robots.txt 阻止了所有搜索引擎，Wordpress 自带的【建议搜索引擎不索引本站点】也勾上了，<span style = "color:blue;">2015-04-13</span> 已重新提交搜索引擎。
-27.  <span style = "color:red;">2015-04-13 从今天开始，且行且珍惜，必须更努力，才能让这博客有存在的意义了。</span>——大肥羊
+27.  <span style = "color:red;">2015-04-13 从今天开始，且行且珍惜，必须更努力，才能让这博客有存在的意义了。</span>——老杨
 28.  2015-04-24 去掉评论头像功能：[详情](//cyhour.com/updated-to-wordpress-4-2.html)。
 29.  2015-04-28 换上 Wordpress 自带分页功能
 30.  2015-05-09 增加文字折叠功能、重新添加阅读数统计和文章评分功能。
