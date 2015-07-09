@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Permalinks
-permalink: /posts/:title
+permalink: /:title
 timezone: America/Sao_Paulo
 
 # Setup
