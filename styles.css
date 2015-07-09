@@ -24,27 +24,27 @@ body {
 }
 
 h1, .f1 {
-  font-size: 2rem;
+  font-size: 2.4rem;
   line-height: 2.5rem;
 }
 
 h2, .f2 {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   line-height: 2rem;
 }
 
 h3, .f3 {
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   line-height: 1.5rem;
 }
 
 p, .p, .f4, h4, h5, h6, dl, ol, ul {
-  font-size: 1.125rem;
+  font-size: 1.2rem;
   line-height: 1.5rem;
 }
 
 small, .small, .f5 {
-  font-size: .875rem;
+  font-size: .8rem;
   line-height: 1.5rem;
 }
 
@@ -1028,24 +1028,6 @@ h6 {
   margin: 1em 0 0.5em;
 }
 
-.social-icons {
-    padding: 0.5em 0 0 0;
-    font-size: 1.25rem;
-    width: 100%;
-}
-.social-icons a.fa {
-    padding: 0.2em;
-    opacity: 0.8;
-    cursor: pointer;
-}
-.social-icons a.fa:hover {
-    opacity: 1;
-}
-.social-icons iframe[title=Flattr] {
-    position: relative;
-    top: 0.1em;
-}
-
 @media screen and (min-width: 48em) {
   .site-header .site-title {
     float: left;
@@ -1143,28 +1125,23 @@ h6 {
     margin-top: 0.666em;
     margin-bottom: 1.333em;
   }
-
-  .social-icons .left, .social-icons .right {
-    text-align: center;
-    float: none;
-  }
 }
 
 @media screen and (min-width: 64em) {
   h1 {
-    font-size: 4.498rem;
+    font-size: 2.4rem;
   }
 
   h2 {
-    font-size: 3.18rem;
+    font-size: 1.8rem;
   }
 
   h3 {
-    font-size: 2.249rem;
+    font-size: 1.4rem;
   }
 
   h4 {
-    font-size: 1.591rem;
+    font-size: 1.2rem;
   }
 
   .posts .post-meta {
@@ -1213,6 +1190,36 @@ footer .wrap {
 footer:after {
   content: "";
   display: block;
+}
+
+.post-content {
+  iframe.video,
+  iframe.ted,
+  iframe.twitter-tweet,
+  img {
+    margin: 20px 0;
+    border-radius: 3px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.9);
+  }
+}
+
+.post-header h1 {
+    font-size: 2.4rem;
+}
+
+img.emoji {
+  box-shadow: none;
+  margin: 0;
+}
+
+#ds-thread #ds-reset .ds-powered-by { /*多说 不显示 powerby*/
+  display: none!important;
+}
+
+#ds-thread #ds-reset .ds-replybox {
+    border-bottom: 1px solid #ccc;
+    margin: 8px 0 32px!important;
+    padding: 0 0 44px 60px!important;
 }
 
 /* Solarized Dark
@@ -1371,37 +1378,3 @@ green     #859900  operators, other keywords
 .gist-syntax .highlight .vi { color: #268bd2 } /* Name.Variable.Instance */
 .highlight .il,
 .gist-syntax .highlight .il { color: #2aa198 } /* Literal.Number.Integer.Long */
-
-.post-content {
-  iframe.video,
-  iframe.ted,
-  iframe.twitter-tweet,
-  img {
-    margin: 20px 0;
-    border-radius: 3px;
-    box-shadow: 0 0 6px rgba(0,0,0,0.9);
-  }
-}
-
-.post-header h1 {
-    font-size: 2.4rem;
-}
-
-img.emoji {
-  box-shadow: none;
-  margin: 0;
-}
-
-.github-cards {
-  text-align: center;
-}
-
-#ds-thread #ds-reset .ds-powered-by { /*多说 不显示 powerby*/
-	display: none!important;
-}
-
-#ds-thread #ds-reset .ds-replybox {
-    border-bottom: 1px solid #ccc;
-    margin: 8px 0 32px!important;
-    padding: 0 0 44px 60px!important;
-}
