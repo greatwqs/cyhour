@@ -1,13 +1,4 @@
-/*
-
-  BASSCSS
-
-  Next-level CSS toolkit - http://jxnblk.github.io/basscss
-
-  Made with love by Jxnblk - ©2014 Brent Jackson
-  MIT License http://opensource.org/licenses/MIT
-
-*/
+/*BASSCSS*/
 body, button, input, select, textarea, pre {
   margin: 0;
 }
@@ -32,17 +23,17 @@ body {
   font-weight: 400;
 }
 
-h1, .h1, .f1 {
+h1, .f1 {
   font-size: 2rem;
   line-height: 2.5rem;
 }
 
-h2, .h2, .f2 {
+h2, .f2 {
   font-size: 1.5rem;
   line-height: 2rem;
 }
 
-h3, .h3, .f3 {
+h3, .f3 {
   font-size: 1.25rem;
   line-height: 1.5rem;
 }
@@ -69,41 +60,11 @@ small, .small, .f5 {
 }
 
 @media screen and (min-width: 48em) {
-  .h1 {
-    font-size: 4rem;
-    line-height: 5rem;
-  }
-
-  .h2 {
-    font-size: 2rem;
-    line-height: 2.5rem;
-  }
-
-  .h3 {
-    font-size: 1.5rem;
-    line-height: 2rem;
-  }
-
-  .p {
-    font-size: 1.25rem;
-    line-height: 2rem;
-  }
-
   .small {
     font-size: 1rem;
   }
 }
-@media screen and (min-width: 64em) {
-  .h1 {
-    font-size: 6rem;
-    line-height: 8rem;
-  }
 
-  .h2 {
-    font-size: 3rem;
-    line-height: 3.5rem;
-  }
-}
 strong, .bold {
   font-weight: bold;
 }
@@ -1056,17 +1017,11 @@ blockquote footer {
 }
 
 h1,
-.h1,
 h2,
-.h2,
 h3,
-.h3,
 h4,
-.h4,
 h5,
-.h5,
-h6,
-.h6 {
+h6 {
   font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 900;
   line-height: 1.2;
@@ -1103,27 +1058,22 @@ h6,
     font-size: 1.25rem;
   }
 
-  .h1,
   h1 {
     font-size: 3.250rem;
   }
 
-  .h2,
   h2 {
     font-size: 2.298rem;
   }
 
-  .h3,
   h3 {
     font-size: 1.625rem;
   }
 
-  .h4,
   h4 {
     font-size: 1.150rem;
   }
 
-  .p,
   p,
   li {
     font-size: 1.25rem;
@@ -1162,22 +1112,18 @@ h6,
     padding: 0.5em;
   }
 
-  .h1,
   h1 {
     font-size: 2.827rem;
   }
 
-  .h2,
   h2 {
     font-size: 1.999rem;
   }
 
-  .h3,
   h3 {
     font-size: 1.413rem;
   }
 
-  .h4,
   h4 {
     font-size: 1rem;
   }
@@ -1205,22 +1151,18 @@ h6,
 }
 
 @media screen and (min-width: 64em) {
-  .h1,
   h1 {
     font-size: 4.498rem;
   }
 
-  .h2,
   h2 {
     font-size: 3.18rem;
   }
 
-  .h3,
   h3 {
     font-size: 2.249rem;
   }
 
-  .h4,
   h4 {
     font-size: 1.591rem;
   }
