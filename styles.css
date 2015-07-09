@@ -58,7 +58,13 @@ small, .small, .f5 {
 }
 
 .site-header {
-    margin-top: 16px;
+  background: #fff none repeat scroll 0 0;
+  border-bottom: 1px solid #ccc;
+  left: 0;
+  right: 0;
+  margin: auto;
+  padding: 12px 0;
+  position: fixed;  
 }
 
 @media screen and (min-width: 48em) {
