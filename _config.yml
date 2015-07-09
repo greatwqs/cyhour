@@ -31,7 +31,7 @@ sass:
   sass_dir: _scss
   compressed: true
 
-paginate: 3
+paginate: 8
 
 # Custom vars
 show_related_posts: true
