@@ -35,7 +35,6 @@ paginate: 8
 
 # Custom vars
 show_related_posts: true
-animated: false
 
 # Social icons
 show_social_icons: false
