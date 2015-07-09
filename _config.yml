@@ -38,7 +38,7 @@ show_related_posts: true
 animated: true
 
 # Social icons
-show_social_icons: true
+show_social_icons: false
 github_username: nieccyyy
 twitter_username: nieccyyy
 
