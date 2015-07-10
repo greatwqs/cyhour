@@ -6,7 +6,6 @@ permalink: /yinxiangbiji.html
 categories:
   - 其它分类
 tags:
-  - evernote
   - 印象笔记
 ---
 一直在用 Evernote 和国产的 Wiz ，当然，都是免费版。平常做信息、笔记管理挺不错的，可以手机电脑跨平台同步。Evernote 由于国情的缘故，偶尔同步会抽风，最近看到联通用户可以免费领取印象笔记一年高级用户，于是找了几个用联通的好友，蹭了几个印象笔记高级用户的激活码，升级了。把之前 Evernote 的数据都复制到印象笔记了。  

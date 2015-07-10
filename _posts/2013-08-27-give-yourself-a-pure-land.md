@@ -6,7 +6,6 @@ permalink: /give-yourself-a-pure-land.html
 categories:
   - 嫦子专栏
 tags:
-  - 净土
   - 生活
 ---
 今天看了一位同事提交过来的稿件——<span style="color: #0000ff;">《放下，是一种境界》</span>。我静静的将他的文章看了一遍又一遍，他对人在成长过程中不断消失的“真”、“善”、“美”深表无奈，那真切的语句，无一不勾起读者内心的共鸣！  

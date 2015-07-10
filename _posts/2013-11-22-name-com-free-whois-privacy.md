@@ -7,6 +7,5 @@ categories:
   - 其它分类
 tags:
   - 优惠码
-format: status
 ---
 Name.com 的免费隐私保护（Whois Privacy）优惠码是 <span style="color: #ff0000;">PRIVACYPLEASE</span>

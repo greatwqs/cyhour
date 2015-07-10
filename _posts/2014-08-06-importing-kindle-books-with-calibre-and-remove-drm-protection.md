@@ -6,8 +6,7 @@ permalink: /importing-kindle-books-with-calibre-and-remove-drm-protection.html
 categories:
   - 信息技术
 tags:
-  - DRM
-  - kindle
+  - kindle DRM
 ---
 方法并不复杂，只需几步。需要用到的工具：<a href="http://calibre-ebook.com/download" target="_blank">Calibre</a>、<a href="https://github.com/psyrendust/dedrm-ebook-tools" target="_blank">DeDRM插件</a>、Kindle for <a href="http://www.amazon.cn/gp/feature.html/ref=kcp_pc_mkt_lnd?docId=98938" target="_blank">PC</a>（或者for <a href="http://www.amazon.cn/gp/feature.html/ref=kcp_mac_mkt_lnd?docId=98948" target="_blank">Mac</a>）  
 

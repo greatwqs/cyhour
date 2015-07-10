@@ -7,7 +7,6 @@ categories:
   - 信息技术
 tags:
   - bandwagonhost
-  - 高级上网
 ---
 傻瓜式，相当简单。首先当然是购买，我买的是 <a href="http://cyhour.com/out/bandwagonhost512M" target="_blank">512MB</a> 的。然后在 Services -> My Services 下查看已购买的 VPS ，点击 kiwiVM Control Panel 即可进入 VPS 管理页面。  
 

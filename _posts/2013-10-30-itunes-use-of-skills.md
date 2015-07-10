@@ -6,14 +6,10 @@ permalink: /itunes-use-of-skills.html
 categories:
   - 信息技术
 tags:
-  - iPhone
-  - itunes
-  - 苹果
+  - iTunes
 ---
 听说 iTunes 很先进，而我一直没能入门。于是 Google 使用技巧，看否能入门。下面是整理自网络的技巧，希望有用。  
 
-
-  
 <span style="color: #ff0000;">iTunes的好和苹果的精髓都是啥呢？</span>——Sorry，暂时还体会不到。
 
 **ivin 说：**用iTunes也才一年。最开始接触是买了iPod classic 160G电脑里面大概有 30多G的歌，差不多4000首。用iTunes 管理很是方便，自己改改专辑信息，部分封面可以免费自动获取，播放的时候也方便。<span style="color: #0000ff;">敢说iTunes是最先进，最优秀的音乐管理软件，没有之一。没有iTunes的，没有苹果的今天！</span>

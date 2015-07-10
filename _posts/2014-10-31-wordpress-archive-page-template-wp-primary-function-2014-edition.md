@@ -6,8 +6,7 @@ permalink: /wordpress-archive-page-template-wp-primary-function-2014-edition.htm
 categories:
   - 信息技术
 tags:
-  - wordpress
-  - 归档
+  - wordpress 归档
 ---
 WordPress 归档页面模板，效果可参考 <a href="/archives" target="_blank">归档</a> 页面。
 

@@ -6,8 +6,7 @@ permalink: /directadmin-install-startssl-free-ssl-certificates.html
 categories:
   - 信息技术
 tags:
-  - StartSSL
-  - 免费证书
+  - StartSSL 免费证书
 ---
 DirectAdmin安装StartSSL免费SSL证书，大致步骤是：注册StartSSL -> 验证域名 -> 申请证书【分为两步，生成私匙（可在DirectAdmin控制面板生成，也可以直接在StartSSL中生成） 和 生成证书 】 -> 在DirectAdmin安装证书 -> WordPress 配置 https。  
 

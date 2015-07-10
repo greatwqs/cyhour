@@ -6,8 +6,7 @@ permalink: /chinese-jailbreak-came-again.html
 categories:
   - 其它分类
 tags:
-  - iOS7越狱
-  - 国产
+  - iOS7 国产越狱
 ---
 继去年年底的【<a href="/ios-7-untethered-jailbreak.html" target="_blank">iOS 7 完美越狱</a>】，国产的iOS 7.1.1 完美越狱又来了。你敢试一试吗？——我是不敢！据<a href="http://news.imobile.com.cn/articles/2014/0624/137520.shtml" target="_blank" rel="external nofollow">网友测试</a>，问题多多的，想更新或者越狱的朋友们还是忍忍等等吧。  
 

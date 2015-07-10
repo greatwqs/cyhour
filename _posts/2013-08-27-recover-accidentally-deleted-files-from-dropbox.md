@@ -6,7 +6,6 @@ permalink: /recover-accidentally-deleted-files-from-dropbox.html
 categories:
   - 信息技术
 tags:
-  - Dropbox
   - 误删文件
 ---
 Dropbox 是最实用且<span style="color: #0000ff;">免费</span>的文件同步、备份、共享工具。在智能机横行的今天，想必已有很多朋友用上 Dropbox 在不同系统间同步分享自己的照片与文件。但有时我们在整理编辑照片与文件时会不小心<span style="color: #ff0000;">误删</span>掉，怎么办？<span style="color: #0000ff;">别急！</span>在 Dropbox 上找回文件是很容易的事情（30天内误删的文件都可以找回）。  

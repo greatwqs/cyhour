@@ -6,9 +6,7 @@ permalink: /turtle-speed-of-china-mobile.html
 categories:
   - 其它分类
 tags:
-  - 2G
-  - 移不动
-  - 龟速
+  - 移不动 2G
 ---
 移动说，4G真的来了……可我连3G都还没用上，并且很长很长…一段时间内还得用着龟速的2G，除了不爽，好像没什么可做的了——从来没考虑过联不通！  
 

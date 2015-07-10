@@ -6,9 +6,7 @@ permalink: /weather-forecast-ios.html
 categories:
   - 信息技术
 tags:
-  - App推荐
-  - iOS
-  - 小清新
+  - iOS App推荐
 ---
 推荐个 iOS 端的天气预报 App —— 天气预报！对，这 App 名字就叫天气预报！<a href="https://itunes.apple.com/cn/app/tian-qi-yu-bao-shi-shi-tian/id646719781" target="_blank">直达链接~</a>估计是没有比这更实在纯粹的天气类应用了。不过，2015 年了，相比很多动不动就几十M的 App，这个 1 年多前更新过的只有 7.8M 的 App 就显得有点落后了。  
 

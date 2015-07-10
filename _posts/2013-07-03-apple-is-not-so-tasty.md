@@ -6,9 +6,7 @@ permalink: /apple-is-not-so-tasty.html
 categories:
   - 其它分类
 tags:
-  - iOS
-  - iPhone4S
-  - 苹果
+  - iPhone 4S
 ---
 RT，苹果，并没有想象中那么可口。当然，这里说的是Jobs的苹果。
 

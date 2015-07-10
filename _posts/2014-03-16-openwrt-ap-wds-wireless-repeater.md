@@ -6,8 +6,7 @@ permalink: /openwrt-ap-wds-wireless-repeater.html
 categories:
   - 信息技术
 tags:
-  - OpenWRT
-  - 无线中继
+  - OpenWRT 无线中继
 ---
 两个路由器分别配置为：AP1设置为Access Point+WDS模式，AP2设置为Client和AP模式。实现AP2通过无线与AP1连接，然后将AP1的网络通过AP2的无线和有线LAN口共享出去。  
 

@@ -9,8 +9,6 @@ tags:
   - 垃圾恒创
 ---
 细数那些与垃圾恒创香港独立IP主机客服亲密接触的基情时刻，from <span style = "color:red;">2014-12-11</span>，长期更新。（<span style = "color:blue;">按时间线倒序</span>）  
-
-
   
 <span style = "color:red;">2015-01-17</span>,1月8号到目前为止基本上没怎么挂过了（起码我没发现，也没邮件提醒），貌似是稳定了。文章暂时取消置顶了！
 

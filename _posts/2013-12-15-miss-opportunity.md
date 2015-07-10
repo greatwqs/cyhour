@@ -6,9 +6,7 @@ permalink: /miss-opportunity.html
 categories:
   - 平凡生活
 tags:
-  - 学车
-  - 考试
-  - 驾照
+  - C1驾照
 ---
 2013-12-13，星期五，考了排队3个多月的科目二——挂了，挂得好心痛。
 

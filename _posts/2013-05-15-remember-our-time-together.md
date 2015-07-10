@@ -6,8 +6,7 @@ permalink: /remember-our-time-together.html
 categories:
   - 嫦子专栏
 tags:
-  - 大学毕业
-  - 聚会
+  - 大学毕业聚会
 ---
 自2010年6月毕业离校至今，已经两年零11个月了。
 

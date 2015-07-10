@@ -6,8 +6,7 @@ permalink: /protect-wifi-not-be-shared-by-lanwifi.html
 categories:
   - 信息技术
 tags:
-  - wifi
-  - 万能钥匙
+  - wifi 万能钥匙
 ---
 前阵子吐槽了一番那个【<a href="//cyhour.com/fuck-lianwifi.html " target="_blank">没有节操的万能钥匙</a>】，热心的网友提供了很多解决方案，但没有找到完美的解决方法。后来弄了两个路由器，一个自用，一个限速分享。  
 

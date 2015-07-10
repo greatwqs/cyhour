@@ -6,7 +6,6 @@ permalink: /chrome-download.html
 categories:
   - 其它分类
 tags:
-  - chrome
   - 离线安装包
 ---
 想下载离线安装包的可以进来看看。  

@@ -7,8 +7,6 @@ categories:
   - 平凡生活
 tags:
   - C1驾照
-  - 学车
-  - 驾照
 ---
 距<a href="http://cyhour.com/some-feeling-about-learning-driving.html" target="_blank">第一次报名学车</a>【<span style = "color:red;">1年10个月</span>】左右的时间，昨天（2015-2-2）考完最后一科安全文明驾驶，终于拿到本本可以实习了。慢慢考证路暂告一段落。  
 

@@ -6,8 +6,7 @@ permalink: /goodbye-guangzhou.html
 categories:
   - 平凡生活
 tags:
-  - 再见
-  - 广州
+  - 再见广州
 ---
 再见了，广州！回家种田去……或许说再见是为了不再见。
 

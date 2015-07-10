@@ -7,7 +7,6 @@ categories:
   - 其它分类
 tags:
   - DNSPod
-  - 国际版
 ---
 Dnspod中国版（Dnspod.cn），免费用户是不支持Google蜘蛛的，但是暂时还必须得用它，所以试试它的国际版（dnspod.com）吧，不知道效果会不会更好呢？  
 

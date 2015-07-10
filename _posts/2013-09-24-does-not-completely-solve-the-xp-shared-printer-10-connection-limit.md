@@ -6,8 +6,7 @@ permalink: /does-not-completely-solve-the-xp-shared-printer-10-connection-limit.
 categories:
   - 信息技术
 tags:
-  - xp
-  - 打印机
+  - xp 打印机
 ---
 RT！呃，<span style="color: #ff0000;">还是打印机，还是xp，</span>折腾……Google、度娘、Bing 搜索均无找到<span style="color: #0000ff;">彻底完美解决方案</span>，暂时用这个不彻底方案凑合着吧。
 

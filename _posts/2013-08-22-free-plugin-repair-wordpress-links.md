@@ -6,7 +6,6 @@ permalink: /free-plugin-repair-wordpress-links.html
 categories:
   - 信息技术
 tags:
-  - wordpress
   - 友情链接
 ---
 WordPress从3.5版本开始已经移除了链接管理功能（<span style="color: #0000ff;">当然，如果你的WordPress是从旧版本升级的话你会发现还会有链接管理功能</span>）。如果想要激活该功能的话，官方推荐是安装一款插件 Link-manager。但实际上，一行代码就可以搞定。  

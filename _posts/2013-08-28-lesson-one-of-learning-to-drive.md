@@ -6,9 +6,7 @@ permalink: /lesson-one-of-learning-to-drive.html
 categories:
   - 平凡生活
 tags:
-  - 学车
-  - 科目一
-  - 驾照
+  - C1驾照
 ---
 等了将近 <span style="color: #ff0000;">5</span> 个月，今天，终于考完科目一了。
 

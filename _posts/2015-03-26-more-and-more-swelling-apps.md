@@ -6,8 +6,7 @@ permalink: /more-and-more-swelling-apps.html
 categories:
   - 信息技术
 tags:
-  - Apps
-  - iOS
+  - iOS Apps
 ---
 大概是一年多前，把用了半年的 <a href="/do-ios7.html" target="_blank">iPhone 4S 升级到 7.0.4，并且越狱了</a>。升级后很长一段时间，用着还挺爽的，没有明显感觉平时使用或者打开 App 的速度比 iOS 6 慢 or 卡顿，但是操作上更方便了。直到 iOS 8 测试版出来了，Apps 慢慢向 iOS 8 靠拢，App 更新后，运行速度开始变慢、卡顿，有时候甚至还没打开就闪退了。  
 

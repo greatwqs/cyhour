@@ -7,11 +7,8 @@ categories:
   - 信息技术
 tags:
   - Sublime Text
-  - 打开方式
 ---
 因为wordpress，用上了 Sublime Text 2，很好用，但是有个非常明显的缺点——启动速度奇慢。
-
-
 
 zww大叔说 Sublime Text 3 基本上是秒开，于是网上找了个xx版，顺利安装完，xx了——确实秒开。
 

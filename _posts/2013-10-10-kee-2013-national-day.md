@@ -6,9 +6,7 @@ permalink: /kee-2013-national-day.html
 categories:
   - 平凡生活
 tags:
-  - 国庆
-  - 小长假
-  - 旅游
+  - 国庆小长假
 ---
 这国庆节小长假已过去几天了，也已经是<span style="color: #ff0000;">第5天</span>上班了，才慢慢缓过神来了。一句话：这个国庆过得没有想象中那么悲剧，也没计划的那么完美，但还是挺开心的！
 

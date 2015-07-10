@@ -6,8 +6,7 @@ permalink: /microkia-born.html
 categories:
   - 其它分类
 tags:
-  - 微软
-  - 诺基亚
+  - 微软诺基亚
 ---
 据国外媒体报道，<span style="color: #0000ff;">微软将以71.7亿美元收购诺基亚设备与服务部门</span>，加速发展Windows生态系统。其中37.9亿欧元用于收购诺基亚手机业务部门，另外16.5亿欧元收购其专利组合，共计折合71.7亿美元。
 

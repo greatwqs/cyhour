@@ -6,8 +6,6 @@ permalink: /suning-help-you-repair-broken-screen-for-free-for-any-phone.html
 categories:
   - 其它分类
 tags:
-  - 免费
-  - 碎屏
   - 苏宁
 ---
 苏宁免费换屏服务，苏宁将在全国范围内推出免费换屏服务，<span style="color: #ff0000;">数量为100万部</span>，更重要的是<span style="color: #ff0000;">免费换屏机型不限制购买的渠道和何种机型</span>。

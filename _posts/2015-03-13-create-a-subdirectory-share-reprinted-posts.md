@@ -6,7 +6,6 @@ permalink: /create-a-subdirectory-share-reprinted-posts.html
 categories:
   - 其它分类
 tags:
-  - 剪贴板
   - 转载
 ---
 <del datetime="2015-03-23T17:20:54+00:00">想法源自土木坛子：<a href="https://tumutanzi.com/archives/12905" target="_blank">新建二级目录专门转载博文</a>。</del>坛子说：原创固然重要，有用的转载是对信息的二次接力传递。信息传递到正确的受众体，也是极好的。  

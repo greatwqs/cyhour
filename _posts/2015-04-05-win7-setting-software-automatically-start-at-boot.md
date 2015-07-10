@@ -4,12 +4,8 @@ title: Win7 设置软件开机自动启动[新技能 Get]
 author: 老杨
 layout: post
 permalink: /win7-setting-software-automatically-start-at-boot.html
-categories:
-  - 信息技术
-tags:
-  - Everything
-  - win7
-  - 自动启动
+categories: 信息技术
+tags: win7 自动启动
 ---
 新技能 Get 自：前几天感觉电脑中毒了，莫名其妙的加载一些不明网址弹出广告，连夜重装了 Win7，发现在不关闭 Win7 UAC 的情况下（<span style = "color:blue;">若关闭 UAC 就不用往下折腾了</span>），本地搜索神器 [Everything](http://www.voidtools.com/downloads/) 不能开机自动启动了，在软件配置界面勾选随系统启动并单独给它管理员权限，也是无济于事。
 

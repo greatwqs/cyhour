@@ -6,15 +6,11 @@ permalink: /magical-medicine-pen.html
 categories:
   - 平凡生活
 tags:
-  - 小强
   - 神奇药笔
-  - 蟑螂
 ---
 <span style="color: #0000ff;">神奇药笔，你…听过吗？</span>
 
 ![shenqiyaobi-1][1]
-
-
 
   
 没听过的，看完图片，也大概能知道这神奇的药笔是干什么的了吧。

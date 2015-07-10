@@ -7,7 +7,6 @@ categories:
   - 信息技术
 tags:
   - Show UserAgent
-  - 评论者国旗
 ---
 <a href="https://wordpress.org/plugins/show-useragent/" target="_blank">Show UserAgent</a>：用于显示访客UA信息的插件，包括：操作系统信息，浏览器信息以及国籍信息（显示评论者所在地国旗）。作者：<a href="http://hzlzh.io/show-useragent/" target="_blank" rel="nofollow">hzlzh</a>。插件的 IP 库最后更新时间是 2012.08.25，已经两年多没更新了，好些 IP 不能正确显示国旗了，搜了搜资料，更新了一下 IP 库，需要的直接下载替换文件即可。  
 

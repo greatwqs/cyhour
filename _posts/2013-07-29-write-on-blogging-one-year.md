@@ -6,8 +6,6 @@ permalink: /write-on-blogging-one-year.html
 categories:
   - 信息技术
 tags:
-  - wordpress
-  - 一年
   - 独立博客
 ---
 开始接触博客是在大学时期，那时候就一直想自己捣腾一个个人BLOG，独立的。

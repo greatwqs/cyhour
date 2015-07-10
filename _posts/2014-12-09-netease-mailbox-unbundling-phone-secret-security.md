@@ -6,8 +6,7 @@ permalink: /netease-mailbox-unbundling-phone-secret-security.html
 categories:
   - 信息技术
 tags:
-  - 手机密保
-  - 网易邮箱
+  - 网易邮箱手机密保
 ---
 某某博友说网易的云课堂不错，找来雪藏已久的网易邮箱帐号登陆，才发邮箱的密保手机还没修改为现在用的手机号码。于是登陆进去解绑旧的已经停机的手机号码，接着绑定新的手机号码，本来，是一件很简单的事情，5分钟绝对能搞定。但是……  
 

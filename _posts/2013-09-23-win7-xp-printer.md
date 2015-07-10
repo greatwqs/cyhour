@@ -6,8 +6,7 @@ permalink: /win7-xp-printer.html
 categories:
   - 信息技术
 tags:
-  - win7
-  - 打印机
+  - win7 打印机
 ---
 前台又换回昔日的xp老爷机了，打印问题又来了……<span style="color: #0000ff;">每天都有人在叫：又打印不了了</span>。搞得心烦意乱啊。
 

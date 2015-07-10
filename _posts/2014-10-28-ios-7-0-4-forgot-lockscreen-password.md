@@ -7,7 +7,6 @@ categories:
   - 信息技术
 tags:
   - ios7
-  - iPhone
 ---
 **No zuo no die，真是自作孽不可活！老了，连 2 个数字都记不住了！**
 

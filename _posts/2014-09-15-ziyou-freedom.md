@@ -7,7 +7,6 @@ categories:
   - 平凡生活
 tags:
   - 自由
-  - 金钱
 ---
 <a href="http://zh.wikipedia.org/zh-cn/自由" rel="external nofollow" target="_blank">维基百科</a>说：<span style="color: #ff0000;">自由</span>是一个政治哲学中的概念，在此条件下人类可以自我支配，凭借自由意志而行动，并为自身的行为负责。<span style="color: #ff0000;">自由</span>，是人在自己所拥有的领域自主追求自己设定目标的权利。（这是当下的我认为最贴切的解释）  
 

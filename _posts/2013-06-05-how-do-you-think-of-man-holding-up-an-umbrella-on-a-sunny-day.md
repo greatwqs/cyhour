@@ -6,7 +6,6 @@ permalink: /how-do-you-think-of-man-holding-up-an-umbrella-on-a-sunny-day.html
 categories:
   - 嫦子专栏
 tags:
-  - 男人
   - 男孩打伞
 ---
 今年的夏天似乎来得特别猛烈，六月出头，太阳就毒辣得狠。在厂里呆了三个星期，闷得慌，周末也顾不上这毒辣的太阳，去广州玩。在地铁出口处，看到两“斯文”男生共撑一把伞，慢悠悠的走着，与旁边匆匆跑进地铁站、汗流浃背的小伙子形成了鲜明的对比。  

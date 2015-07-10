@@ -7,7 +7,6 @@ categories:
   - 老杨转载
 tags:
   - 人生
-  - 梦想
 ---
 <div title="这是你自己的人生。">
   <span style="font-size: xx-large;"><strong>This is your life.</strong></span>

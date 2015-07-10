@@ -6,8 +6,7 @@ permalink: /sth-about-win7-link-win7-shared-printer.html
 categories:
   - 信息技术
 tags:
-  - win7
-  - 打印机
+  - win7 打印机
 ---
 公司前阵子招了个前台，电脑换新的了，电脑城装的是win7。本想把win7干掉安上xp的，无奈人家说不要xp，喜欢win7，只好作罢。  
 

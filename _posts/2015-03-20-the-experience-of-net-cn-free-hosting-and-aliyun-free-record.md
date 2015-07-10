@@ -6,10 +6,7 @@ permalink: /the-experience-of-net-cn-free-hosting-and-aliyun-free-record.html
 categories:
   - 信息技术
 tags:
-  - 万网
-  - 免费主机
-  - 免费备案
-  - 阿里云
+  - 万网免费主机
 ---
 因为还没试过备案，一直都是听说或者看到网友说备案麻烦，时间长，还不一定能通过等等。前不久，技术帝<a href="http://fatesinger.com/" target="_blank">大发</a>也备案了，住进了阿里云；博友<a href="https://heshizi.com/2985.html" target="_blank">河石子</a>也体验了一番万网的免费主机和阿里云的免费备案。刚好，手上有闲置的域名，于是，折腾开始了……  
 

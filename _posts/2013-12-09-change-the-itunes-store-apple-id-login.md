@@ -6,7 +6,6 @@ permalink: /change-the-itunes-store-apple-id-login.html
 categories:
   - 信息技术
 tags:
-  - apple
   - iTunes Store
 ---
 想在 iOS 安装个 Gmail ，本来不难，却怎么都找不到能装上的方法。

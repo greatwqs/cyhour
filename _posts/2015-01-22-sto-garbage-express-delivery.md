@@ -6,7 +6,6 @@ permalink: /sto-garbage-express-delivery.html
 categories:
   - 平凡生活
 tags:
-  - 垃圾快递
   - 垃圾申通快递
 ---
 申通快递——垃圾快递中的战斗机！网上买东西，试过好多次快递从广州到德庆，顺丰、圆通一天可送达；而申通，从广州到德庆县城得两天，从县城到县城送达也可能得隔天。<span style = "color:red;">申通快递——垃圾快递中的战斗机！</span>  

@@ -6,9 +6,7 @@ permalink: /the-lake-deep-water-of-glasses.html
 categories:
   - 嫦子专栏
 tags:
-  - 暴利
-  - 深水
-  - 眼镜
+  - 眼镜暴利
 ---
 很早就听说眼镜行业是一个典型暴利行业！
 

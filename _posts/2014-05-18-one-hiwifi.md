@@ -6,7 +6,6 @@ permalink: /one-hiwifi.html
 categories:
   - 信息技术
 tags:
-  - 一个
   - 极路由
 ---
 <span style="color: #ff0000;">不是软文！</span>我没买过极路由暂时也没打算置一个。在韩寒的<a href="http://wufazhuce.com/" target="_blank" rel="external nofollow">「ONE · 一个」</a>上面看到了它的广告词，挺有特色的。  

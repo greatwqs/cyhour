@@ -6,7 +6,6 @@ permalink: /godlike-college-entrance-examination.html
 categories:
   - 其它分类
 tags:
-  - 神
   - 高考
 ---
 一年一次的高考，今天是今年高考的第一天。出来工作这么多年，已经很少关心这考试了。这几天新闻铺天盖地的在说。不就一场考试么？怎么就这么神了呢？  

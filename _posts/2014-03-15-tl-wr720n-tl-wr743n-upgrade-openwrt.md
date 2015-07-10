@@ -6,8 +6,7 @@ permalink: /tl-wr720n-tl-wr743n-upgrade-openwrt.html
 categories:
   - 信息技术
 tags:
-  - OpenWRT
-  - 石像鬼
+  - OpenWRT 石像鬼
 ---
 720N拨号偶尔会掉线，743N做无线中继的话LAN口又不能上网，于是就有了这篇资源来自网络的折腾文。这里先把整理的刷openwrt方法贴上来，改天再贴设置无线中继部分。  
 

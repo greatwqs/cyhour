@@ -6,7 +6,6 @@ permalink: /cigarettes.html
 categories:
   - 平凡生活
 tags:
-  - 生活
   - 香烟
 ---
 烟，在你连生活费都要借的时候，你还会继续抽烟吗？一天一包的抽。

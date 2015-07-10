@@ -6,9 +6,7 @@ permalink: /can-you-tell-me-what-are-uploading.html
 categories:
   - 其它分类
 tags:
-  - 上传
-  - 提速
-  - 迅雷
+  - 迅雷上传
 ---
 迅雷，能告诉我你在上传什么吗？既然我买了你的会员，是不是可以选择0速度上传呢？丫的，有时候上传速度比下载速度还快！  
 

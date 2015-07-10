@@ -6,8 +6,7 @@ permalink: /use-free-chinamobile-optical-broadband.html
 categories:
   - 平凡生活
 tags:
-  - 免费
-  - 移动光宽带
+  - 免费移动光宽带
 ---
 之前就听说移动光宽带的上传速度比电信的要快 N 倍，加上前阵子看到<a href="https://www.jinbo123.com/5783.html" target="_blank" rel="nofollow">佐仔的评测</a>，刚好家里老爸用的全球通 128 元套餐预存 120 元话费就可以免费用 6M 的宽带了，于是15号就去办了一个，今天装上了。  
 

@@ -6,9 +6,7 @@ permalink: /close-wordpress-visual-editor.html
 categories:
   - 信息技术
 tags:
-  - wordpress
   - 可视化编辑器
-format: status
 ---
 彻底关闭WordPress可视化编辑器，在 functions.php 添加如下代码即可：
 

@@ -6,8 +6,7 @@ permalink: /laozi-lunyu.html
 categories:
   - 其它分类
 tags:
-  - 老子
-  - 论语
+  - 老子论语
 ---
 老子说：知其雄，守其雌；知其白，守其黑；知其荣，守其辱。（《道德经》第28章）  
 

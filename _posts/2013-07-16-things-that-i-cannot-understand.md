@@ -6,7 +6,6 @@ permalink: /things-that-i-cannot-understand.html
 categories:
   - 平凡生活
 tags:
-  - 不能理解
   - 无法理解
 ---
 本人天资愚钝，世事复杂，很多很多……事情都不能理解的……

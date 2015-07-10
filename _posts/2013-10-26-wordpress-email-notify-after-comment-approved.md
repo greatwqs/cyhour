@@ -6,7 +6,6 @@ permalink: /wordpress-email-notify-after-comment-approved.html
 categories:
   - 信息技术
 tags:
-  - wordpress
   - 邮件通知
 ---
 RT，评论通过审核后，给评论者发送一封通知邮件。  

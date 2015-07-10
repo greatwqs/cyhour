@@ -6,9 +6,7 @@ permalink: /some-feeling-about-learning-driving.html
 categories:
   - 平凡生活
 tags:
-  - 学车
-  - 安全驾驶
-  - 驾照
+  - C1驾照
 ---
 由于<a title="等待" href="/waiting.html" target="_blank">历史原因</a>，错过了很多很适合考驾照的机会，最近才报了名。
 

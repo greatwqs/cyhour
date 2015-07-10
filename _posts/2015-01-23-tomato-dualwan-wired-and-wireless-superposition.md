@@ -7,7 +7,6 @@ categories:
   - 信息技术
 tags:
   - TomatoDualWAN
-  - 无线叠加
 ---
 最近拉了条<a href="http://cyhour.com/use-free-chinamobile-optical-broadband.html" target="_blank">移动光宽带</a>，原有的路由（DualWAN WR-525W）是支持多 WAN 接入拨号的，但是由于历史原因，移动的光纤接不到路由器 WR-525W 那去，又懒得借工具穿线，刚好 Tomato 的无线模式支持中继(无线客户端+虚拟AP)模式，于是又淘了个支持 Tomato 的二手 <a href="http://cyhour.com/sto-garbage-express-delivery.html" target="_blank">Asus RT-N16</a> 。  
 

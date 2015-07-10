@@ -6,8 +6,7 @@ permalink: /fuck-lianwifi.html
 categories:
   - 其它分类
 tags:
-  - wifi
-  - 蹭网
+  - wifi 蹭网
 ---
 也许，是我太吝啬了。WIFI 给邻居连了一下，不知名的设备像雨后春笋般冒出来。买了个国产的DualWan WR525，本想开了 Qos 就大方点分享了吧，无奈Qos 不给力，不智能~  
 

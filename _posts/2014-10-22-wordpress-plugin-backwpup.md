@@ -6,7 +6,6 @@ permalink: /wordpress-plugin-backwpup.html
 categories:
   - 信息技术
 tags:
-  - wordpress
   - 备份
 ---
 玩博客，最重要的莫过于数据，其中数据库的数据（文章、网站设置等等都在里面）是最重要的 。WordPress 的数据库备份，我以前一直是用 WP-DB-Backup ，这个插件简单、方便，稍稍配置就可以定时把博客的数据库打包发送到你指定的邮箱。但这个插件只能备份数据库，想备份一下主题、图片或者相关的附件就无能为力了。  
