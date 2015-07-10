@@ -93,6 +93,10 @@ p {
   color: #333;
 }
 
+.post-content > p {
+    margin-bottom: 12px;
+}
+
 abbr {
   border-bottom: 1px black dotted;
   cursor: help;
@@ -115,7 +119,7 @@ pre {
 }
 
 .highlight .p {
-  font-size: 1.125rem;
+  font-size: 1.2rem;
   line-height: 1;
 }
 
@@ -219,7 +223,7 @@ img {
 
 .gist,
 .gist .highlight .p {
-  font-size: .75rem;
+  font-size: 1rem;
 }
 
 .gist .lines {
