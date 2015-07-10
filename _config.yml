@@ -4,11 +4,11 @@ highlighter: pygments
 
 # Permalinks
 permalink: /:title.html
-timezone: America/Sao_Paulo
+timezone: Asia/Hong_Kong
 
 # Setup
 title: 常阳时光(syn)
-description: '常阳时光 Github 同步'
+description: 'CYHOUR.COM Github 同步更新站'
 baseurl:     ''
 url:         'http://syn.cyhour.com'
 
