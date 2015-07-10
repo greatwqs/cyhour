@@ -6,9 +6,7 @@ permalink: /life-and-job.html
 categories:
   - 其它分类
 tags:
-  - KGE
-  - 工作
-  - 生活
+  - KGE 工作
 ---
 生活，就是生下来活下去。
 
