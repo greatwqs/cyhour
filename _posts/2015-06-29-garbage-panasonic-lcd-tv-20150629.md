@@ -4,7 +4,8 @@ title: 两个多月，垃圾松下液晶电视终于保修回来，又坏了
 date: 2015-06-29 08:00
 author: 老杨
 comments: true
-categories: [垃圾松下液晶电视, 平凡生活]
+categories: 平凡生活
+tags: 垃圾松下液晶电视
 ---
 <a href="//cyhour.com/garbage-panasonic-lcd-tv.html" target="_blank">距离送修时间 2015.04.17</a>，已经过去两个多月了，垃圾松下液晶电视终于算是保修回来了，这保修速度“快”得令人发指！无言以对……
 

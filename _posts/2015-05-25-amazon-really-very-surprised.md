@@ -4,7 +4,8 @@ title: 甚是惊讶！亚马逊
 date: 2015-05-25 15:50
 author: 老杨
 comments: true
-categories: [kindle, 其它分类]
+categories: 其它分类
+tags: kindle
 ---
 中午吃完饭，上<a href="//cyhour.com/out/amazoncn" target="_blank">亚马逊</a>看了看最近有啥<a href="//cyhour.com/out/kindlebookscn" target="_blank">特价电子书</a>卖。买了本排行榜上面的<a href="http://www.amazon.cn/gp/product/B00X90IC4O/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B00X90IC4O&linkCode=as2&tag=utf8f-23" target="_blank" rel="nofollow">《陪伴生命:我从临终病人眼中看到的幸福 》</a>，一键下单买了，手机上 iOS Kindle 下载了，看了一下目录，感觉还不错。忽然又想起，在 iOS Kindle 上看书做的标记（摘录），目前来说是没有办法导出的，于是顺手点开 设置 -> 反馈，敲下【<span style = "color:blue;">为什么连导出读书笔记功能都没有呢？？？望增加。 </span>】十来个字就发送出去了。大多数情况下是，然后呢？没有然后了……
 

@@ -4,7 +4,8 @@ title: 我是个算命先生-书摘
 date: 2015-05-29 11:11
 author: 老杨
 comments: true
-categories: [书摘, 其它分类]
+categories: 其它分类
+tags: 书摘
 ---
 <a href="http://www.amazon.cn/gp/product/B008H0AFP0/ref=as_li_tf_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B008H0AFP0&linkCode=as2&tag=utf8f-23" target="_blank" rel="nofollow">《我是个算命先生》-易之</a>，一年多前就买了，手机上用 kindle 软件翻了几页就一直躺在那里了，去年年底看到勺子的书评《<a href="//cyhour.com/342.html" target="_blank">我，也是个算命先生</a>》，又翻了几页。然后，一直到 27 号，在老家花了将近一天的时间用很久以前买的 kindle 4 囫囵吞枣的终于把它看完了。对于好几年没完整的看完一本书的我来说，这个还是蛮有成就感的，哈哈……
 

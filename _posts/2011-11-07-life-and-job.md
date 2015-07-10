@@ -3,10 +3,8 @@ title: 生活和工作
 author: 老杨
 layout: post
 permalink: /life-and-job.html
-categories:
-  - 其它分类
-tags:
-  - KGE 工作
+categories: 其它分类
+tags: KGE 工作
 ---
 生活，就是生下来活下去。
 

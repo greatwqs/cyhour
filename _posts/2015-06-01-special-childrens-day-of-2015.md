@@ -4,7 +4,8 @@ title: 2015 不一样的儿童节
 date: 2015-06-01 23:50
 author: 老杨
 comments: true
-categories: [儿童节, 平凡生活]
+categories: 平凡生活
+tags: 儿童节
 ---
 没资格过儿童节好多年了，不过，2015，<a href="http://zh.wikipedia.org/zh-cn/儿童节" target="_blank" rel="nofollow">儿童节</a>有点特别，因为刚好是爷爷农历生日。另外，还在微信收到了舅舅的儿童节红包，哈哈。
 

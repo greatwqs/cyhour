@@ -4,7 +4,8 @@ title: iPhone 4S 再一次越狱
 date: 2015-06-26 10:14
 author: 老杨
 comments: true
-categories: [信息技术, 越狱]
+categories: 信息技术
+tags: 越狱
 ---
 2015.06.23 太极发布了 iOS 8.3 完美越狱，观望了一天，昨天（2015.06.25）在 Twitter 上和网络上说没什么大问题，按捺不住折腾的心，下定决心把越狱了一年多的 iOS7.0.4 4S 升级到 8.3，再越狱一次。
 
