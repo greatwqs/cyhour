@@ -26,11 +26,14 @@ layout: default
       <a class="page-numbers" href="/">1</a>
     {% endif %}
 
+    {% if paginator.page > 7 %}
+      <span class="page-numbers dots">…</span>
+    {% endif %}
+
     {% assign pageSize = 5 %}
     {% assign startPage = paginator.page | minus:pageSize %}
     {% if 2 > startPage %}
       {% assign startPage = 2 %}
-      <span class="page-numbers dots">…</span>
     {% endif %}
     {% assign endPage = paginator.page | plus:pageSize %}
     {% if endPage >= paginator.total_pages %}
