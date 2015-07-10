@@ -167,6 +167,21 @@ article, details, figcaption, figure, footer, header, main, section, summary {
 /* =Menu--------------------------------------- */
 .main-navigation { float: right;}
 
+.site ,.site-footer{
+	background-color: #FFF;
+	margin: auto;
+	width:800px;
+}
+
+.site ,.site-footer,.subnavTabs,#header-nav{
+	border-right: 1px solid #e4e4e4;
+	border-left	: 1px solid #e4e4e4;
+}
+
+.site {
+    padding: 50px 32px 4px;
+}
+
 .post-header h1 {
     font-size: 2.4rem;
 }
