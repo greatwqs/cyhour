@@ -4,7 +4,26 @@ layout: default
 
 <div class="post-header">
 	<h2 class="post-title">{{ page.title }}</h2>
-	<p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}</p>
+	<p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}
+		{% if page.categories.size != 0 %}
+		 | 
+		<span class="categories">
+		  分类
+		  {% for cat in page.categories %}
+		  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
+		  {% endfor %}
+		</span>
+		{% endif %}
+		{% if page.tags.size != 0 %}
+		 | 
+		<span class="tags">
+		  标签
+		  {% for tag in page.tags %}
+		  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
+		  {% endfor %}
+		</span>
+		{% endif %}
+	</p>
 </div>
 
 <article class="post-content">
