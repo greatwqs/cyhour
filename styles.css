@@ -246,14 +246,14 @@ img {
 }
 
 .site-header nav a {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: #666;
+  line-height: 2;
+  padding-left: 14px;
 }
 
 .site-header nav a:hover {
   color: #444;
-  opacity: 1;
-  border-bottom: 2px solid #444;
 }
 
 .site-header a:hover,
