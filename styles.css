@@ -309,6 +309,10 @@ table {
   }
 }
 
+.related-post {
+    margin-top: 20px;
+}
+
 .related-post-title {
   border-bottom: 1px solid #eee;
 }
