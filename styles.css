@@ -310,7 +310,12 @@ table {
 }
 
 .related-post-title {
-  border-bottom: thin solid #f3f3f3;
+  border-bottom: 1px solid #eee;
+}
+
+.related-post > ul {
+    list-style: square;
+    margin-left: 20px;
 }
 
 .posts {
