@@ -150,14 +150,17 @@ article, details, figcaption, figure, footer, header, main, section, summary {
 .home-title,nav{display: inline-block;}
 
 .site-header {
-  background: #fff;
-  border-bottom: 1px solid #ccc;
-  left: 0;
-  right: 0;
-  margin: auto;
-  padding: 12px 0;
-  position: fixed;
-  z-index: 9;
+	background: #fff;
+	border-bottom: 1px solid rgba(204, 51, 0, 0.5);
+	width:800px;
+	left: 0;
+	right: 0;
+  	margin-left: auto;
+	margin-right: auto;
+	margin: auto;
+	padding: 8px 32px;
+	position: fixed;
+	z-index: 9;
 }
 
 
