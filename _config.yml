@@ -17,20 +17,10 @@ author:
   url: http://syn.cyhour.com
   email: i@cyhour.com
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - bin
-
-gems:
-  # - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-
 paginate: 8
 
 # Custom vars
 show_related_posts: true
 
 google_analytics: UA-48556550-3
-disqus_shortname: syncyhour
+comments: true
