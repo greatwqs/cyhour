@@ -7,8 +7,8 @@ permalink: /:title.html
 timezone: Asia/Hong_Kong
 
 # Setup
-title: 常阳时光(syn)
-description: 'CYHOUR.COM Github 同步更新站'
+title: 常阳时光(SYN)
+description: 'cyhour.com Github 同步更新站'
 baseurl:     ''
 url:         'http://syn.cyhour.com'
 
