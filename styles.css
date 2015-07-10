@@ -1,32 +1,12 @@
 /*
-	BASSCSS
-	Pixyll
+BASSCSS Pixyll
 
-  A simple, beautiful theme for Jekyll that emphasizes content rather than
-  aesthetic fluff.
+A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff.
 
-  Best served with BASSCSS (http://jxnblk.github.io/basscss)
-
-  Crafted with <3 by John Otander (@4lpine) - ©2015 John Otander
-  MIT License http://opensource.org/licenses/MIT
-
+Best served with BASSCSS (http://jxnblk.github.io/basscss)
 */
 body, button, input, select, textarea, pre {
   margin: 0;
-}
-
-h1, h2, h3, h4, h5, h6, p, dl, ol, ul {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-button, input, select, textarea {
-  font-family: inherit;
-  font-size: 100%;
-}
-
-article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
-  display: block;
 }
 
 body {
@@ -45,6 +25,18 @@ body {
           box-sizing: border-box;
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6, p, dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 900;
+  line-height: 1.2;
+  margin: 1em 0 0.5em;
 }
 
 h1 {
@@ -71,6 +63,72 @@ small {
   font-size: .8rem;
   line-height: 1.5rem;
 }
+
+form {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+textarea.input {
+  height: 8em;
+}
+
+p {
+  font-weight: 300;
+  line-height: 1.5;
+  color: #333;
+}
+
+abbr {
+  border-bottom: 1px black dotted;
+  cursor: help;
+}
+
+pre, code {
+  font-family: Menlo, Monaco, "Courier New", monospace
+}
+
+code {
+  color: #7a7a7a;
+}
+
+pre {
+  padding: 1.125em;
+  font-size: 1.125rem;
+  line-height: 1.11;
+  overflow-x: scroll;
+  margin-bottom: 0.88em;
+}
+
+.highlight .p {
+  font-size: 1.125rem;
+  line-height: 1;
+}
+
+blockquote {
+  padding: 1.33em;
+  font-style: italic;
+  border-left: 5px solid #7a7a7a;
+}
+
+blockquote footer {
+  font-size: .85rem;
+  font-style: normal;
+  background-color: #fff;
+  color: #7a7a7a;
+  border-color: transparent;
+}
+
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+  display: block;
+}
+
 
 .site-header {
   background: #fff;
@@ -153,6 +211,7 @@ img {
 .site-nav {
   margin: 0;
   padding: 0;
+  float: right;
 }
 
 .site-header a:hover,
@@ -299,73 +358,7 @@ table {
   background-color: #999;
 }
 
-form {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 300;
-  font-size: 1rem;
-}
 
-textarea.input {
-  height: 8em;
-}
-
-p {
-  font-weight: 300;
-  line-height: 1.5;
-  color: #333;
-}
-
-abbr {
-  border-bottom: 1px black dotted;
-  cursor: help;
-}
-
-pre, code {
-  font-family: Menlo, Monaco, "Courier New", monospace
-}
-
-code {
-  color: #7a7a7a;
-}
-
-pre {
-  padding: 1.125em;
-  font-size: 1.125rem;
-  line-height: 1.11;
-  overflow-x: scroll;
-  margin-bottom: 0.88em;
-}
-
-.highlight .p {
-  font-size: 1.125rem;
-  line-height: 1;
-}
-
-blockquote {
-  padding: 1.33em;
-  font-style: italic;
-  border-left: 5px solid #7a7a7a;
-}
-
-blockquote footer {
-  font-size: .85rem;
-  font-style: normal;
-  background-color: #fff;
-  color: #7a7a7a;
-  border-color: transparent;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 900;
-  line-height: 1.2;
-  margin: 1em 0 0.5em;
-}
 
   .meta,
   .post-meta {

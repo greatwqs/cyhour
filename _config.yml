@@ -27,19 +27,10 @@ gems:
   - jemoji
   - jekyll-redirect-from
 
-sass:
-  sass_dir: _scss
-  compressed: true
-
 paginate: 8
 
 # Custom vars
 show_related_posts: true
-
-# Social icons
-show_social_icons: false
-github_username: nieccyyy
-twitter_username: nieccyyy
 
 google_analytics: UA-48556550-3
 disqus_shortname: syncyhour
