@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Archive
+title: 归档
 permalink: /archive/
+date: 2011-11-01
 ---
 
 {% for post in site.posts  %}
@@ -14,8 +15,8 @@ permalink: /archive/
   {% endif %}
 
   <li>
+    <small class="date">{{ post.date | date: "%Y-%m-%d" }}</small>
     <a href="{{ post.url }}">{{ post.title }}</a>
-    <small class="date">{{ post.date | date_to_string }}</small>
   </li>
 
   {% if forloop.last %}
