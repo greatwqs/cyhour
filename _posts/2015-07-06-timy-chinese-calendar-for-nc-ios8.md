@@ -4,7 +4,8 @@ title: Timy – 通知中心农历，又少了一个越狱的理由
 date: 2015-07-06 17:30
 author: 老杨
 comments: true
-categories: [信息技术, 通知中心农历]
+categories: 信息技术
+tags: 通知中心农历
 ---
 Timy – 通知中心农历[iOS 8/Apple Watch]，这是今天逛<a href="http://www.appinn.com/timy-for-ios/" rel="nofollow">小众软件</a>看到的推荐。这 App，大小只有丧心病狂的 1.5MB ！！！冲着只有 1.5MB 的体积，立马安装上了，试用一小会，功能与从 iOS6 就开始用的盗版需要越狱才能安装的 Chinese Calendar Pro For Notification Center 基本上一样，稍微少一点，但是够用了。于是把盗版插件给卸掉了。
 
