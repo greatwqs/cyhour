@@ -307,15 +307,9 @@ table {
 }
 
 .posts .post {
-  margin-bottom: 0.75em;
-  padding-bottom: .375em;
-  border-bottom: thin solid #f3f3f3;
-}
-
-.posts .post:last-child {
-  border-bottom: none;
-  margin-bottom: .375em;
-  padding-bottom: 0;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 24px;
+    padding-bottom: 24px;
 }
 
 .post-link .post-title {
@@ -332,7 +326,7 @@ table {
 }
 
 /*分页*/
-.pagination {font-size: 14px;padding:18px 0 0;text-align: center; }
+.pagination {font-size: 14px;padding: 0 0 12px;margin-top: -6px; text-align: center; }
 .pagination .page-numbers{color:#111;display: inline-block;text-align: center;width: 24px;line-height:24px;margin:5px;background: #E4E5E1;}
 .pagination .page-numbers.current,.posts-nav .page-numbers:not(.dots):hover{ background: #c30;color:#fff;}	
 .pagination .page-numbers.dots{border-color:rgba(0,0,0,0)}
