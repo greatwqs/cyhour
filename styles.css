@@ -209,6 +209,10 @@ img {
   max-width: 100%;
 }
 
+.site-content img {
+    margin: 20px 0;
+}
+
 .gist,
 .gist .highlight .p {
   font-size: .75rem;
