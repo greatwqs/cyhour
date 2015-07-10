@@ -163,6 +163,17 @@ article, details, figcaption, figure, footer, header, main, section, summary {
 	z-index: 9;
 }
 
+.site-title a {
+	color: #111;
+	text-decoration: none;
+}
+
+.site-title {
+	margin: 0;
+	font-size: 24px;
+	line-height: 1.2;
+}
+
 
 /* =Menu--------------------------------------- */
 .main-navigation { float: right;}
