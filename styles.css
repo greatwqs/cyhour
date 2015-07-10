@@ -374,7 +374,7 @@ table {
 	width: device-width;
 }
 
-@media screen and (min-width: 888px) {
+@media screen and (max-width: 888px) {
 	.site ,.site-header,.site-footer,.subnavTabs{
 		width: auto;
 	}
