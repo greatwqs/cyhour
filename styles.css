@@ -394,7 +394,42 @@ table {
 }
 
 @media screen and (min-width: 888px) {
+	.site ,.site-header,.site-footer,.subnavTabs{
+		width: auto;
+	}
 
+}
+
+@media only screen and (max-width : 540px) {
+	/** 滚屏 返回顶部**/
+	#scroll {
+		right: 0;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	.main-navigation li {
+		margin-right: 8px;
+	}
+
+}
+
+@media only screen and (max-width : 360px) {
+	.site-title {
+	    text-align: center;
+	}
+
+	.main-navigation li {
+		margin: 4px 8px 0 0;
+		font-size: 13px;
+	}
+
+}
+
+@media only screen and (max-width : 315px) {
+	.main-navigation {
+		display: none;
+	}
 }
 
 
