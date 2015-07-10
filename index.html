@@ -7,7 +7,7 @@ layout: default
     {% for post in paginator.posts %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h2 class="post-title">{{ post.title }}</h2></a>
-        <p class="post-meta">{{ post.author }} {{ post.date | date: "%Y-%m-%d" }}{{ post.categories }}{{ post.tags }}</p>
+        <p class="post-meta">{{ post.author }} | {{ post.date | date: "%Y-%m-%d" }} | {{ post.categories }} | {{ post.tags }}</p>
         <p class="post-summary">
           {% if post.summary %}
             {{ post.summary }}
