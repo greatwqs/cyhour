@@ -44,6 +44,8 @@ layout: default
       {% endif %}
     {% endfor %}
 
+    <span class="page-numbers dots">…</span>
+
     {% if paginator.page == paginator.total_pages %}
       <span class="page-numbers current">{{paginator.total_pages}}</span>
     {% else %}
