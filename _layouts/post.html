@@ -16,9 +16,11 @@ layout: default
 
 <div class="related-post">
 	<h3 class="related-post-title">相关文章</h3>
+	<ul>
 	{% for post in site.related_posts limit:3 %}
-		<a href="{{ post.url | prepend: site.baseurl }}" class="post-link related-post-title">{{ post.title }}</a>
+		<li><a href="{{ post.url | prepend: site.baseurl }}" class="post-link related-post-title">{{ post.title }}</a></li>
 	{% endfor %}
+	</ul>
 </div>
 
 {% if site.comments %}
