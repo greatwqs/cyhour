@@ -5,63 +5,69 @@ A simple, beautiful theme for Jekyll that emphasizes content rather than aesthet
 
 Best served with BASSCSS (http://jxnblk.github.io/basscss)
 */
-body, button, input, select, textarea, pre {
-  margin: 0;
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	border: 0;
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	font-family: inherit;
+}
+html {
+	overflow-y: scroll; /* Keeps page centred in all browsers regardless of content height */
+	font-size: 62.5%; /* Corrects text resizing oddly in IE6/7 when body font-size is set using em units http://clagnut.com/blog/348/#c790 */
+	-webkit-text-size-adjust: 100%; /* Prevents iOS text size adjust after orientation change, without disabling user zoom */
+	-ms-text-size-adjust: 100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
 }
 
-body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
-  line-height: 1.5rem;
-  font-weight: 400;
+body,button,input,select,textarea {
+	font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+	color: #111;
+	font-size: 16px;
+	font-size: 1.6rem;
+	line-height: 1.6;
 }
 
-html, body {
-  height: 100%;
-}
-
-body {
-  font-size: 1.5rem;
-
-          box-sizing: border-box;
-     -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-}
-
-h1, h2, h3, h4, h5, h6, p, dl, ol, ul {
-  margin-top: 0;
-  margin-bottom: 1rem;
-}
-
-h1,h2,h3,h4,h5,h6 {
-  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 900;
-  line-height: 1.2;
-  margin: 1em 0 0.5em;
+h1, h2, h3, h4, h5, h6{
+	clear: both;
+	margin: 8px 0;
 }
 
 h1 {
-  font-size: 2.4rem;
-  line-height: 2.5rem;
+	font-size: 24px;
+	font-size: 2.4rem;
+	color: #900;
 }
 
 h2 {
-  font-size: 1.8rem;
-  line-height: 2rem;
+	font-size: 18px;
+	font-size: 1.8rem;
 }
 
 h3 {
-  font-size: 1.4rem;
-  line-height: 1.5rem;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: bold;
 }
 
-p, h4, h5, h6, dl, ol, ul {
-  font-size: 1.2rem;
-  line-height: 1.5rem;
+h4,
+h5,
+h6 {
+	font-weight: bold;
 }
 
 small {
-  font-size: .8rem;
-  line-height: 1.5rem;
+  font-size: smaller;
 }
 
 form {
@@ -72,6 +78,18 @@ form {
 
 textarea.input {
   height: 8em;
+}
+
+/* Links */
+a {
+	color: #c30;/*#26ADE4*/
+	text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+	color: #111;/*#1E8AB6*/
+	text-decoration: underline;
 }
 
 p {
@@ -125,10 +143,11 @@ button, input, select, textarea {
   font-size: 100%;
 }
 
-article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+article, details, figcaption, figure, footer, header, main, section, summary {
   display: block;
 }
 
+.home-title,nav{display: inline-block;}
 
 .site-header {
   background: #fff;
@@ -140,6 +159,10 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
   position: fixed;
   z-index: 9;
 }
+
+
+/* =Menu--------------------------------------- */
+.main-navigation { float: right;}
 
 .post-header h1 {
     font-size: 2.4rem;
@@ -165,17 +188,7 @@ img {
   max-width: 100%;
 }
 
-.site-wrap {
-  min-height: 100%;
-  margin-bottom: -120px;
-}
-
-.site-wrap:after {
-  content: "";
-  display: block;
-}
-
-.footer, .site-wrap:after {
+.footer {
   height: 120px;
 }
 
@@ -202,16 +215,6 @@ img {
   color: #444;
   opacity: 1;
   border-bottom: 2px solid #444;
-}
-
-.site-nav a + a {
-  margin-left: 1em;
-}
-
-.site-nav {
-  margin: 0;
-  padding: 0;
-  float: right;
 }
 
 .site-header a:hover,
@@ -325,10 +328,6 @@ table {
   background: #f7f7f7;
 }
 
-.wrap .measure {
-  margin: 0 auto;
-}
-
 .meta,
 .post-meta {
   width: auto;
@@ -358,136 +357,16 @@ table {
   background-color: #999;
 }
 
+@-ms-viewport {
+	width: device-width;
+}
 
-
-  .meta,
-  .post-meta {
-    margin: 0;
-    padding: 0;
-    font-size: 1.25rem;
-  }
-
-  h1 {
-    font-size: 3.250rem;
-  }
-
-  h2 {
-    font-size: 2.298rem;
-  }
-
-  h3 {
-    font-size: 1.625rem;
-  }
-
-  h4 {
-    font-size: 1.150rem;
-  }
-
-  p,
-  li {
-    font-size: 1.25rem;
-    line-height: 1.8;
-  }
-
-  .small {
-    font-size: 1rem;
-  }
-
-  table {
-    font-size: 1.25rem;
-  }
-
-  .post-link .post-title {
-    margin-top: 0.5em;
-  }
-
-  .posts .post {
-    margin-bottom: 1.333em;
-    padding-bottom: 0.666em;
-    border-bottom: thin solid #f3f3f3;
-  }
-
-  .posts .post:last-child {
-    border-bottom: none;
-    margin-bottom: .333em;
-    padding-bottom: 0;
-  }
+@viewport {
+	width: device-width;
+}
 
 @media screen and (min-width: 888px) {
 
-  h1 {
-    font-size: 2.4rem;
-  }
-
-  h2 {
-    font-size: 1.8rem;
-  }
-
-  h3 {
-    font-size: 1.4rem;
-  }
-
-  h4 {
-    font-size: 1.2rem;
-  }
-
-  .posts .post-meta {
-    padding-bottom: .2em;
-  }
-
-  .post-link .post-title {
-    margin-top: .125em;
-  }
-
-  .posts .post {
-    margin-bottom: 2.666em;
-    padding-bottom: 1.333em;
-    border-bottom: thin solid #f3f3f3;
-  }
-
-  .posts .post:last-child {
-    border-bottom: none;
-    margin-bottom: .666em;
-    padding-bottom: 0;
-  }
-}
-
-.share-page {
-  font-size:  0.65em;
-  padding: 2em 0 0 0;
-}
-
-.share-page div {
-  font-size: 1.3em;
-}
-
-footer {
-  border-top: thin solid #f3f3f3;
-}
-
-footer,
-footer .wrap {
-  color: #7a7a7a;
-  background-color: #fafafa;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 300;
-  clear: both;
-}
-
-footer:after {
-  content: "";
-  display: block;
-}
-
-.post-content {
-  iframe.video,
-  iframe.ted,
-  iframe.twitter-tweet,
-  img {
-    margin: 20px 0;
-    border-radius: 3px;
-    box-shadow: 0 0 6px rgba(0,0,0,0.9);
-  }
 }
 
 

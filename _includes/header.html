@@ -1,11 +1,10 @@
-<header class="site-header">
-  <div class="wrap">
-    <div class="measure">
-      <a href="/" class="site-title">{{ site.title }}</a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-      </nav>
-      <div class="clearfix"></div>
-    </div>
-  </div>
+<header id="header-nav" class="site-header" role="banner">
+	<div class="home-title">
+		<a href="/" class="site-title">{{ site.title }}</a>
+	</div>
+	<nav role="navigation" class="site-navigation main-navigation">
+		<a href="{{ site.baseurl }}/about/">关于</a>
+		<a href="{{ site.baseurl }}/archive/">归档</a>
+	</nav>
+	<div class="clearfix"></div>
 </header>
