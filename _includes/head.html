@@ -4,10 +4,10 @@
     <title>
         {% if page.title %}{{ page.title | strip_html }} &#8211; {% endif %}
         {{ site.title | strip_html }}
-        {% if page.layout == 'default' %}&#8211;{{ site.description | strip_html }} {% endif %}
         {% if paginator.page > 1 %}
-          &#8211;第 {{ paginator.page | strip_html }} 页
+          &#8211; 第 {{ paginator.page | strip_html }} 页
         {% endif %}
+        {% if page.layout == 'default' %}&#8211; {{ site.description | strip_html }} {% endif %}
     </title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{% if page.summary %}{{ page.summary | xml_escape }}{% else %}{{ site.description | xml_escape }}{% endif %}">
