@@ -78,7 +78,7 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    {% if ((paginator.total_pages - 3) > paginator.page) %}
+    {% if (paginator.total_pages > (paginator.page+3)) %}
       <span class="page-numbers dots">…</span>
     {% endif %}
 
