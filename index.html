@@ -4,9 +4,7 @@ layout: default
 
 <div class="home">
   <div class="posts">
-    {% assign adtemp = 1 %}
     {% for post in paginator.posts %}
-      {% adtemp = adtemp | plus:1 %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h2 class="post-title">{{ post.title }}</h2></a>
           <p class="post-meta">
@@ -46,21 +44,20 @@ layout: default
           {{ post.excerpt }}
 
       </div>
-      {% if adtemp == 2 %}
-        <div class="home-info">
-            <span class="home-info-icon">&#xe80c;</span>推荐：
-              <ul>
-                  <li><a href="/out/yizhihongxing" target="_blank" title="一枝红杏出墙来，专业网络加速器。9元一年体验型VIP性价比超高！">一枝红杏</a></li>
-                  <li><a href="/out/kindlebookstody" target="_blank" title="Kindle 每天 4 本特价书。">Kindle 每日特价书</a></li>
-                  <li><a href="/out/yinxiangbiji" target="_blank" title="印象笔记帮你轻松记录、整理并找到一切，让生活更美好、工作更高效。">印象笔记</a></li>
-                  <li><a href="/out/greenvpn"  target="_blank" title="绿色好用靠谱的VPN">绿色加速器</a></li>
-                  <li><a href="/out/zhujiGD"  target="_blank" title="专业的PHP空间商，提供优质、稳定的美国、香港、日本PHP主机">主机格调</a></li>
-              </ul>
-        </div><!-- home-info -->
-      {% endif %}
     {% endfor %}
-    {% assign adtemp = 1 %}
+
   </div>
+
+  <div class="home-info">
+      <span class="home-info-icon">&#xe80c;</span>推荐：
+        <ul>
+              <li><a href="/out/yizhihongxing" target="_blank" title="一枝红杏出墙来，专业网络加速器。9元一年体验型VIP性价比超高！">一枝红杏</a></li>
+              <li><a href="/out/kindlebookstody" target="_blank" title="Kindle 每天 4 本特价书。">Kindle 每日特价书</a></li>
+              <li><a href="/out/yinxiangbiji" target="_blank" title="印象笔记帮你轻松记录、整理并找到一切，让生活更美好、工作更高效。">印象笔记</a></li>
+              <li><a href="/out/greenvpn"  target="_blank" title="绿色好用靠谱的VPN">绿色加速器</a></li>
+              <li><a href="/out/zhujiGD"  target="_blank" title="专业的PHP空间商，提供优质、稳定的美国、香港、日本PHP主机">主机格调</a></li>
+        </ul>
+  </div><!-- home-info -->
   
   <div id="post-pagination" class="pagination">
     {% if paginator.page == 1 %}
