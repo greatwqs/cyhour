@@ -333,13 +333,13 @@ img {
 }
 
 /*分页*/
-.pagination {font-size: 14px;margin-top: -6px; text-align: center; }
+.pagination {font-size: 14px;margin-top: 18px; text-align: center; }
 .pagination .page-numbers{color:#111;display: inline-block;text-align: center;width: 24px;line-height:24px;margin:5px;background: #E4E5E1;}
 .pagination .page-numbers.current,.posts-nav .page-numbers:not(.dots):hover{ background: #c30;color:#fff;}	
 .pagination .page-numbers.dots{border-color:rgba(0,0,0,0)}
 
 /*热门标签 首页信息*/
-.tag-items,.home-info{height: 20px;width: 100%;overflow: hidden;padding: 6px 0;border-bottom: 1px solid rgba(204, 51, 0, 0.3);font-size: 14px;}
+.tag-items,.home-info{height: 20px;width: 100%;overflow: hidden;padding: 6px 0;border-bottom: 1px solid rgba(204, 51, 0, 0.3);font-size: 14px;margin-top: -24px;}
 .tag-items .cat-item,.home-info ul li{display:inline-block;font-size:14px;padding:0 8px 0 0;}
 .home-info > ul {display: inline-block;margin: 0;}
 .tag-items-icon,.home-info-icon {color: #c20;margin-right: 4px;}
