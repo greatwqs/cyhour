@@ -399,23 +399,12 @@ img {
 @media only screen and (max-width : 480px) {
 	.site-header nav a {
 		padding-left: 8px;
+		font-size: 13px;
 	}
 
 	.page-numbers {
 	    padding: 0 5px;
 	    margin-right: 2px;
-	}
-
-}
-
-@media only screen and (max-width : 360px) {
-	.site-title {
-	    text-align: center;
-	}
-
-	.site-header nav a {
-		margin: 4px 8px 0 0;
-		font-size: 13px;
 	}
 
 }
