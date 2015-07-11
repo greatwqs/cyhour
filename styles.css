@@ -228,10 +228,11 @@ article, details, figcaption, figure, footer, header, main, section, summary {
 }
 
 #ds-thread #ds-reset .ds-replybox {
-    border-bottom: 1px solid #ccc;
     margin: 8px 0 32px!important;
-    padding: 0 0 44px 60px!important;
+    padding: 0!important;
 }
+
+#ds-thread #ds-reset .ds-replybox .ds-avatar{display: none!important;}
 
 img {
   width: auto;
