@@ -214,8 +214,9 @@ article, details, figcaption, figure, footer, header, main, section, summary {
 }
 
 .site-footer{
-	padding: 8px 32px;
+	padding: 4px 32px;
 	border-top: 1px solid #c30;
+	border-bottom: 1px solid #c30;
 }
 
 /*子菜单*/
