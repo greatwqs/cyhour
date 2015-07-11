@@ -79,7 +79,7 @@ h4,h5,h6 {
 }
 
 ol, ul {
-    margin-left: 32px;
+    margin: 12px 0 12px 32px;
 }
 
 small {
