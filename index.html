@@ -40,12 +40,9 @@ layout: default
              | 
             <span class="ds-thread-count" data-thread-key="{{ post.id }}" data-count-type="comments"></span>
           </p>
-        <p class="post-summary">
-          {% if post.summary %}
-            {{ post.summary }}
-          {% else %}
-            {{ post.excerpt }}
-          {% endif %}
+
+          {{ post.excerpt }}
+          
         </p>
       </div>
     {% endfor %}
