@@ -204,19 +204,29 @@ article, details, figcaption, figure, footer, header, main, section, summary {
 	width:800px;
 }
 
-.site ,.site-footer,#header-nav{
+.site ,.site-footer,.subnavTabs,#header-nav{
 	border-right: 1px solid #e4e4e4;
 	border-left	: 1px solid #e4e4e4;
 }
 
 .site {
-    padding: 50px 32px 4px;
+	padding: 4px 32px 20px 32px;
 }
 
 .site-footer{
 	padding: 8px 32px;
 	border-top: 1px solid #c30;
 }
+
+/*子菜单*/
+.menu-sub-container { height: 19px;overflow: hidden;}
+.subnavTabs{padding: 50px 32px 4px 32px;font-size: 13px;margin: auto;width:800px;}
+.subnavTabs {background: #fafafa;border-bottom: 1px solid rgba(204, 51, 0, 0.5);}
+.subnavTabs ul {list-style: none;margin: 0;}
+.subnavTabs li {display: inline-block;margin-right: 14px;}
+.subnavTabs a {color: #222;}
+.subnavTabs a:hover {color: #c20;text-decoration: none;}
+/*子菜单*/
 
 .site-footer-info {
 	text-align: center;
@@ -376,12 +386,16 @@ img {
 }
 
 @media screen and (max-width: 888px) {
-	.site ,.site-header,.site-footer{
+	.site ,.site-header,.site-footer,.subnavTabs{
 		width: auto;
 	}
 
-	.site {
+	.subnavTabs{
 		padding: 50px 4% 4px 4%;
+	}
+
+	.site {
+		padding: 4px 4% 20px 4%;
 	}
 
 	.site-header,.site-footer{
