@@ -23,8 +23,29 @@ html {
 	-ms-text-size-adjust: 100%; /* www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/ */
 }
 
+@font-face {
+  font-family: 'fontello';
+  src: url('font/fontello.eot');/* IE9*/
+  src: url('font/fontello.eot?#iefix') format('embedded-opentype'),
+       url('font/fontello.woff') format('woff'),
+       url('font/fontello.ttf') format('truetype'),
+       url('font/fontello.svg#fontello') format('svg');
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'fontello';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
 body,button,input,select,textarea {
-	font-family: Verdana,sans-serif;/*"fontello",*/
+	font-family: "fontello",Verdana,sans-serif;/*"fontello",*/
 	color: #111;
 	font-size: 16px;
 	font-size: 1.6rem;
@@ -305,6 +326,45 @@ img {
 .pagination .page-numbers{color:#111;display: inline-block;text-align: center;width: 24px;line-height:24px;margin:5px;background: #E4E5E1;}
 .pagination .page-numbers.current,.posts-nav .page-numbers:not(.dots):hover{ background: #c30;color:#fff;}	
 .pagination .page-numbers.dots{border-color:rgba(0,0,0,0)}
+
+/** 滚屏 返回顶部**/
+#scroll {
+	width: 30px;
+	float: right;
+	list-style: none;
+	position: fixed;
+	right: 16px;
+	bottom: 48px;
+	z-index: 3;
+}
+#scroll li a {
+	background: #c30;
+	color: #fff;
+	font-size: 16px;
+	text-align: center;
+	padding: 3px 5px;
+	margin-top: 6px;
+	cursor: pointer;
+	display: block;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+#scroll li a:hover {
+	background: #fff;
+	color: #c30;
+ 	transition: all 0.2s ease-in 0s;
+ 	text-decoration: none;
+}
+
+.icon-scroll_t:before {
+	content: "\e804";
+}
+.icon-scroll_c:before {
+	content: "\e801";
+}
+.icon-scroll_b:before {
+	content: "\e805";
+}
 
 @-ms-viewport {
 	width: device-width;
