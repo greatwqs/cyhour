@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   <div class="posts">
-    {% assign adtemp = 0 %}
+    {% assign adtemp = 1 %}
     {% for post in paginator.posts %}
       {% adtemp = adtemp | plus:1 %}
       <div class="post">
@@ -46,7 +46,7 @@ layout: default
           {{ post.excerpt }}
 
       </div>
-      {% if adtemp == 1 %}
+      {% if adtemp == 2 %}
         <div class="home-info">
             <span class="home-info-icon">&#xe80c;</span>推荐：
               <ul>
@@ -59,7 +59,7 @@ layout: default
         </div><!-- home-info -->
       {% endif %}
     {% endfor %}
-    {% assign adtemp = 0 %}
+    {% assign adtemp = 1 %}
   </div>
   
   <div id="post-pagination" class="pagination">
