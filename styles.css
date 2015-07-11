@@ -291,6 +291,15 @@ img {
   color: #666;
 }
 
+.post-meta a {
+    color: #666;
+}
+
+.post-meta a:hover {
+    color: #c30;
+    text-decoration: none;
+}
+
 /*分页*/
 .pagination {font-size: 14px;padding: 0 0 12px;margin-top: -6px; text-align: center; }
 .pagination .page-numbers{color:#111;display: inline-block;text-align: center;width: 24px;line-height:24px;margin:5px;background: #E4E5E1;}
