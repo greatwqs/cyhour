@@ -4,20 +4,31 @@ layout: default
 
 <div class="post-header">
 	<h2 class="post-title">{{ page.title }}</h2>
-	<p class="post-meta">{{ page.date | date: "%Y-%m-%d" }}
+	<p class="post-meta">
+		<span class="author vcard">
+			<a class="url fn n" rel="author" title="查看作者 {{ post.author }} 发布的所有文章" href="/">
+				<span itemtype="http://schema.org/Person" itemprop="author">
+					<span itemprop="name">{{ post.author }}</span>
+				</span>
+			</a>
+		</span>&nbsp;|&nbsp;
+
+		<span class="time">
+			<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date:"%Y-%m-%d" }}</time>
+		</span>
+
 		{% if page.categories.size != 0 %}
 		 | 
 		<span class="categories">
-		  分类
 		  {% for cat in page.categories %}
 		  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{ cat }}</a>&nbsp;
 		  {% endfor %}
 		</span>
 		{% endif %}
+		
 		{% if page.tags.size != 0 %}
 		 | 
 		<span class="tags">
-		  标签
 		  {% for tag in page.tags %}
 		  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{ tag }}</a>&nbsp;
 		  {% endfor %}
