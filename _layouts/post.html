@@ -8,7 +8,7 @@ layout: default
 		<span class="author vcard">
 			<a class="url fn n" rel="author" title="查看作者 {{ post.author }} 发布的所有文章" href="/">
 				<span itemtype="http://schema.org/Person" itemprop="author">
-					<span itemprop="name">{{ post.author }}</span>
+					<span itemprop="name">{{ page.author }}</span>
 				</span>
 			</a>
 		</span>&nbsp;|&nbsp;
@@ -25,7 +25,7 @@ layout: default
 		  {% endfor %}
 		</span>
 		{% endif %}
-		
+
 		{% if page.tags.size != 0 %}
 		 | 
 		<span class="tags">
