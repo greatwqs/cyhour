@@ -78,7 +78,7 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    {% assign temPage = paginator.page+3 %}
+    {% assign temPage = paginator.page | plus:3 %}
     {% if paginator.total_pages > temPage %}
       <span class="page-numbers dots">…</span>
     {% endif %}
