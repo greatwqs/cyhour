@@ -7,7 +7,37 @@ layout: default
     {% for post in paginator.posts %}
       <div class="post">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h2 class="post-title">{{ post.title }}</h2></a>
-        <p class="post-meta">{{ post.author }} | {{ post.date | date: "%Y-%m-%d" }} | {{ post.categories }} | {{ post.tags }}</p>
+          <p class="post-meta">
+            <span class="author vcard">
+              <a class="url fn n" rel="author" title="查看作者 {{ post.author }} 发布的所有文章" href="/">
+                <span itemtype="http://schema.org/Person" itemprop="author">
+                  <span itemprop="name">{{post.author}}</span>
+                </span>
+              </a>
+            </span> | 
+
+            <span class="time">
+              <time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{page.date | date:"%Y-%m-%d"}}</time>
+            </span>
+
+            {% if page.categories.size != 0 %}
+             | 
+            <span class="categories">
+              {% for cat in page.categories %}
+              <a href="/categories/#{{ cat }}" title="{{ cat }}">{{cat}}</a>&nbsp;
+              {% endfor %}
+            </span>
+            {% endif %}
+
+            {% if page.tags.size != 0 %}
+             | 
+            <span class="tags">
+              {% for tag in page.tags %}
+              <a href="/tags/#{{ tag }}" title="{{ tag }}">{{tag}}</a>&nbsp;
+              {% endfor %}
+            </span>
+            {% endif %}
+          </p>
         <p class="post-summary">
           {% if post.summary %}
             {{ post.summary }}

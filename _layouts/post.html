@@ -11,14 +11,14 @@ layout: default
 					<span itemprop="name">{{page.author}}</span>
 				</span>
 			</a>
-		</span>&nbsp;|&nbsp;
+		</span> | 
 
 		<span class="time">
 			<time datetime="{{ page.date | date:"%Y-%m-%d" }}">{{page.date | date:"%Y-%m-%d"}}</time>
 		</span>
 
 		{% if page.categories.size != 0 %}
-		&nbsp;|&nbsp;
+		 | 
 		<span class="categories">
 		  {% for cat in page.categories %}
 		  <a href="/categories/#{{ cat }}" title="{{ cat }}">{{cat}}</a>&nbsp;
@@ -27,7 +27,7 @@ layout: default
 		{% endif %}
 
 		{% if page.tags.size != 0 %}
-		&nbsp;|&nbsp;
+		 | 
 		<span class="tags">
 		  {% for tag in page.tags %}
 		  <a href="/tags/#{{ tag }}" title="{{ tag }}">{{tag}}</a>&nbsp;
