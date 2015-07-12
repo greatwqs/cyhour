@@ -12,14 +12,16 @@ comments: false
 	</ul>
 </div>
 
-<ul class="tag_list">
+<div class="tag_list">
 {% for cat in site.categories %}
-  <h3 class="tag_list_title" id="{{ cat[0] }}">{{ cat[0] }}</h3>
-	{% for post in cat[1] %}
-	  <li class="tag_list_item">
-		<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-		<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-	  </li>
-	{% endfor %}
+	<h3 class="tag_list_title" id="{{ cat[0] }}">{{ cat[0] }}</h3>
+	<ul>
+		{% for post in cat[1] %}
+		  <li class="tag_list_item">
+			<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		  </li>
+		{% endfor %}
+	</ul>
 {% endfor %}
-</ul>
+</div>

@@ -346,6 +346,32 @@ img {
 .tag-items-icon,.home-info-icon {color: #c20;margin-right: 4px;}
 .tag-items .cat-item span{position:relative}
 
+/*标签 、分类页面样式*/
+.tag_box {
+    list-style: none;
+    margin: 6px 0;
+}
+
+.tag_box_li {
+    display: inline-block;
+}
+
+.tag_box_li:nth-child(n+2) { /*第二个 li 开始左边隔开*/
+    margin-left: 12px;
+}
+
+.tag_box_li > a {
+    background: #eee;
+    border: 1px dashed #ccc;
+    padding: 6px 8px;
+}
+
+.tag_box_num {
+    font-size: 10px;
+    vertical-align: super;
+}
+/*标签 、分类页面样式*/
+
 /** 滚屏 返回顶部**/
 #scroll {
 	width: 30px;
