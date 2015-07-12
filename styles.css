@@ -354,11 +354,12 @@ img {
 
 .tag_box_li {
     display: inline-block;
+    margin-left: 4px 0 20px 12px;
 }
 
-.tag_box_li:nth-child(n+2) { /*第二个 li 开始左边隔开*/
+/*.tag_box_li:nth-child(n+2) { 第二个 li 开始左边隔开
     margin-left: 12px;
-}
+}*/
 
 .tag_box_li > a {
     background: #eee;
