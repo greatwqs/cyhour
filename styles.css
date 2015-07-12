@@ -357,10 +357,6 @@ img {
     margin-left: 4px 0 20px 12px;
 }
 
-/*.tag_box_li:nth-child(n+2) { 第二个 li 开始左边隔开
-    margin-left: 12px;
-}*/
-
 .tag_box_li > a {
     background: #eee;
     border: 1px dashed #ccc;
