@@ -8,7 +8,7 @@ timezone: Asia/Hong_Kong
 
 # Setup
 title: 常阳时光(SYN)
-description: 'cyhour.com Github 同步更新站'
+description: 'Since 2011.这是常阳时光(cyhour.com)的 Github 同步更新站.'
 baseurl:     ''
 url:         'http://syn.cyhour.com'
 
