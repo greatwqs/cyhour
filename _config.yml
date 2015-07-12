@@ -12,6 +12,9 @@ description: 'cyhour.com Github 同步更新站'
 baseurl:     ''
 url:         'http://syn.cyhour.com'
 
+gems:
+  - jekyll-sitemap
+
 author:
   name: '老杨'
   url: http://syn.cyhour.com
