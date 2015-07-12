@@ -15,7 +15,7 @@ date: 2011-11-01
     {% endif %}
 
     <li>
-      <small class="date">{{ post.date | date: "%Y-%m-%d" }}</small>
+      <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
 

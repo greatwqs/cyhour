@@ -373,6 +373,15 @@ img {
 }
 /*标签 、分类页面样式*/
 
+/*文章归档 archive*/
+.archive_year {
+    border-bottom: 1px solid #900;
+    color: #900;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+}
+
 /** 滚屏 返回顶部**/
 #scroll {
 	width: 30px;
