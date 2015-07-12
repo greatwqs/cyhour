@@ -5,31 +5,23 @@ comments: false
 ---
 
 <div id='tag_cloud'>
-{% for tag in site.tags %}
-<a href="#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }} ({{ tag[1].size }}) </a>
-{% endfor %}
+	<ul class="tag_box">
+		{% for tag in site.tags %}
+			<li class="tag_box_li"><a href="#{{ tag[0] }}" title="查看标签 {{ tag[0] }} 的所有文章" rel="{{ tag[1].size }}">{{ tag[0] }} <span class="tag_box_num">({{ tag[1].size }})</span></a></li>
+		{% endfor %}
+	</ul>
 </div>
 
-<ul class="listing">
+<div class="tag_list">
 {% for tag in site.tags %}
-  <li class="listing-seperator" id="{{ tag[0] }}">{{ tag[0] }}</li>
-{% for post in tag[1] %}
-  <li class="listing-item">
-  <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-  <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-  </li>
+	<h3 class="tag_list_title" id="{{ tag[0] }}">{{ tag[0] }}</h3>
+	<ul>
+		{% for post in tag[1] %}
+		  <li class="tag_list_item">
+			<time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+			<a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		  </li>
+		{% endfor %}
+	</ul>
 {% endfor %}
-{% endfor %}
-</ul>
-
-<script src="{{ site.url }}/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
-<script language="javascript">
-$.fn.tagcloud.defaults = {
-    size: {start: 1, end: 1, unit: 'em'},
-      color: {start: '#f8e0e6', end: '#ff3333'}
-};
-
-$(function () {
-    $('#tag_cloud a').tagcloud();
-});
-</script>
+</div>
