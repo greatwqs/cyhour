@@ -374,6 +374,10 @@ img {
 /*标签 、分类页面样式*/
 
 /*文章归档 archive*/
+.archives > ul {
+    list-style: none;
+    margin: 12px;
+}
 .archive_year {
     border-bottom: 1px solid #900;
     color: #900;
