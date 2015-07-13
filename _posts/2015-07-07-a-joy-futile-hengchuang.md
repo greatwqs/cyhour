@@ -27,4 +27,12 @@ tags:
 
 ![ a-joy-futile-hengchuang-gift ](//cyhour.com/wp-content/uploads/2015/07/a-joy-futile-hengchuang-gift.png)
 
+<span style = "color:red;">#-------------------#---------------------#</span>
+
+<span style = "color:blue;">Update：2015-07-13</span>
+
+主机已转送出去（[@ World](//cyhour.com/a-joy-futile-hengchuang.html/comment-page-1#comment-6158)），还好，没有浪费。
+
+![ henghost-1G-Send ](//cyhour.com/wp-content/uploads/2015/07/henghost-1G-Send.png)
+
 [广告]　[GreenVPN是一款运营多年的绿色、稳定、安全的VPN产品，帮助您轻松浏览Google、‍Facebook、Youtube、Twitter等，使用简单，手机电脑全平台支持，可免费试用，值得推荐。](http://cyhour.com/out/greenvpn)
