@@ -38,7 +38,7 @@ layout: default
             </span>
             {% endif %}
              | 
-            <a href="#ds-thread"><span class="ds-thread-count" data-thread-key="{{ post.id }}" data-count-type="comments"></span></a>
+            <a href="{{ post.url | prepend: site.baseurl }}#ds-thread"><span class="ds-thread-count" data-thread-key="{{ post.id }}" data-count-type="comments"></span></a>
           </p>
 
           {{ post.excerpt }}
