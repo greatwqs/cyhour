@@ -74,7 +74,8 @@ layout: default
       {% assign endPage = paginator.total_pages | minus:1 %}
     {% endif %}
 
-    {% if paginator.page > (pageSize | plus:2) %}
+    {% assign pageTemp = pageSize | plus:2 %}
+    {% if paginator.page > pageTemp %}
       <span class="page-numbers dots">…</span>
     {% endif %}
 
@@ -86,7 +87,9 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    {% if (paginator.total_pages > (paginator.page | plus:(pageSize | plus:1))) %}
+    {% assign pageTemp1 = pageSize | plus:1 %}
+    {% assign pageTemp = paginator.page | plus:pageTemp1 %}
+    {% if paginator.total_pages > pageTemp %}
       <span class="page-numbers dots">…</span>
     {% endif %}
 
