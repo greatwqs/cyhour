@@ -17,7 +17,7 @@ tags:
 
 附上恒创主机高大上的服务条款：[官网](http://www.henghost.com/tos.php)
 
-![ henghost-ddos-abort ](//cyhour.com/wp-content/uploads/2015/07/henghost-ddos-abort.png)
+![ tos-henghost-20150716 ](//cyhour.com/wp-content/uploads/2015/07/tos-henghost-20150716.png)
 
 如果某一天你浏览博客的时候发现文章后面的评论样式和评论框变成了多说的，请不要惊讶，那是因为我被恒创暂停服务了，我彻底从 WordPress 迁移到 Jekyll 了。
 
