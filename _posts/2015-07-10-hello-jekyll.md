@@ -9,7 +9,7 @@ categories:
 tags:
   - Jekyll
 ---
-Jekyll，你好！Github，谢谢！如果此站挂了，欢迎访问：[常阳时光 - 这是常阳时光(cyhour.com)的 Github 同步更新站.](http://syn.cyhour.com/)。
+Jekyll，你好！Github，谢谢！如果此站挂了，欢迎访问：[常阳时光(SYN) - 这是常阳时光(cyhour.com)的 Github 同步更新站.](http://syn.cyhour.com/)。
 
 很久之前曾经试过几次用 GitHub Pages 和 Jekyll 搭建静态博客，不过因为习惯了 WordPress，又懒得动脑动手，所以一直没有折腾成功，后来就放弃了。
 
