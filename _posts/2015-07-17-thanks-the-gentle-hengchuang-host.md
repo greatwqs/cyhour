@@ -16,3 +16,7 @@ tags:
 这工单是接着昨天的：[恒创主机，不再见！](//cyhour.com/henghost-goodbye-forever.html)
 
 <span style = "color:red;">已经搬出恒创了，不过这主机2016年10月份才到期，想要的留言或者直接发你的恒创账号 Email 到我的邮箱吧，先到先得。</span>
+
+<span style = "color:red;">------------------Update：2015-7-20------------------</span>
+
+此主机已转送给 [Fatears](http://cyhour.com/thanks-the-gentle-hengchuang-host.html/comment-page-1#comment-6249)
