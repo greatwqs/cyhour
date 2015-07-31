@@ -43,7 +43,7 @@ layout: default
 
           {% if post.content contains '<!-- more -->' %}
               {{ post.content | split:'<!-- more -->' | first }}
-              <p class="more"><a href="{{ post.url }}">Read More &raquo;</a></p>
+              <a class="more-link" href="{{ post.url }}">继续阅读…</a>
           {% else %}
               {{ post.excerpt }}
           {% endif %}

@@ -333,6 +333,22 @@ img {
     text-decoration: none;
 }
 
+.post a.more-link {
+    background: #c30 none repeat scroll 0 0;
+    border: 1px solid #fff;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 12px;
+    padding: 0 8px;
+    text-decoration: none;
+}
+.post a.more-link:hover {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #c30;
+    color: #c30;
+}
+
 /*分页*/
 .pagination {font-size: 14px;margin-top: 18px; text-align: center; }
 .pagination .page-numbers{color:#111;display: inline-block;text-align: center;width: 24px;line-height:24px;margin:5px;background: #E4E5E1;}
