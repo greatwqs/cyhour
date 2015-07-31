@@ -2,6 +2,8 @@
 markdown: redcarpet
 highlighter: pygments
 
+excerpt_separator: "<!-- more -->"
+
 # Permalinks
 permalink: /:title.html
 timezone: Asia/Hong_Kong

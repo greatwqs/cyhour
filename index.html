@@ -41,7 +41,12 @@ layout: default
             <a href="{{ post.url | prepend: site.baseurl }}#ds-thread"><span class="ds-thread-count" data-thread-key="{{ post.id }}" data-count-type="comments"></span></a>
           </p>
 
-          {{ post.excerpt }}
+          {% if post.content contains '<!-- more -->' %}
+              {{ post.content | split:'<!-- more -->' | first }}
+              <p class="more"><a href="{{ post.url }}">Read More &raquo;</a></p>
+          {% else %}
+              {{ post.excerpt }}
+          {% endif %}
 
       </div>
     {% endfor %}
