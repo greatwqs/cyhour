@@ -5,7 +5,7 @@ highlighter: pygments
 excerpt_separator: "<!--more-->"
 
 # Permalinks
-permalink: /:title.html
+permalink: /:title
 timezone: Asia/Hong_Kong
 
 # Setup
