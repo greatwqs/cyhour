@@ -365,7 +365,7 @@ img {
 .pagination .page-numbers.dots{border-color:rgba(0,0,0,0)}
 
 /*热门标签 首页信息*/
-.tag-items,.home-info{height: 20px;width: 100%;overflow: hidden;padding: 6px 0;border-bottom: 1px solid rgba(204, 51, 0, 0.3);font-size: 14px;margin-top: -24px;}
+.tag-items,.home-info{height: 20px;width: 100%;overflow: hidden;padding: 6px 0;border-bottom: 1px solid rgba(204, 51, 0, 0.3);font-size: 14px;margin-top: -18px;}
 .tag-items .cat-item,.home-info li{display:inline-block;font-size:14px;padding:0 8px 0 0;}
 .tag-items-icon,.home-info-icon {color: #c20;margin-right: 4px;}
 .tag-items .cat-item span{position:relative}
